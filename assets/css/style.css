@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: Barlow, sans-serif;
+    font-weight: 100;
+    color: #da6220;
+}
+
+body h1 {
+    text-transform: uppercase;
+}
+
+header a {
+    text-decoration: none;
+    color: #da6220;
+}
+
+#logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 30px;
+    text-decoration: none;
+    color: #da6220;
+}
+
+#menu li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    flex-direction: row;
+    padding-bottom: 10px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #da6220;
+}
+
+#menu a:hover {
+    border-bottom: 1px dotted #da6220;
+}
+
+
+#hero-image {
+    height: 300px;
+    width: 100%;
+    background: url('../images/hero-image-2.png') no-repeat center center;
+}
