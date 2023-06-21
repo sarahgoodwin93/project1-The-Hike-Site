@@ -1,39 +1,117 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# The Hike Site
 
-Welcome,
+The Hike Site is by hikers for hikers. A place people can come to in order to get information for their trip to Scotland. Could be a day hike or a multi-day wild camping trip, The Hike Site has helpful tips and tricks to make your adventure the best it can be. 
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+The site will target people who are wanting to come to Scotland for a hiking trip and give information about different suggested walks, gear they could take, a checklist and a chance to sign up to a group walk. 
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+MOCK UP GOES HERE
 
-## Codeanywhere Reminders
+## Features 
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-`python3 -m http.server`
+### Existing Features
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+- __Navigation Bar__
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+  - Featured on all pages, the full responsive navigation bar includes links to the Home page, What to Pack page, Suggested Walks and Sign up. It is the same across all pages to allow for easy navigation.
 
-`http_server`
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+  - This feature allows people to navigate throughout the site without having to use a ‘back’ button, and allows them to access all areas of the site at any time.  
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+![Nav Bar] SCRENSHOT
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- __The Home page__
 
-To log into the Heroku toolbelt CLI:
+  - The landing includes a photograph that draws users attention to what the site is about and its purpose.
+  - The homepage gives links to different areas in Scotland for suggested walks to provide quick access to a specific region.
+  - This section introduces the user to a brief ‘about section’ so that they know if the site will suit their needs or not
+  - This page also provides links to the What to Pack page to give users additional access
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+![Home Page]SCREENSHOT
 
----
 
-Happy coding!
+- __The Footer__ 
+
+  - The footer section includes links to the relevant social media sites for hiking around Scotland
+  - The footer is valuable to the user as it encourages them to keep connected via social media
+
+![Footer]SCREENSHOT
+
+- __What to Pack Page__
+
+  - The ‘what to pack’ section allows users to create a checklist of their gear for both wild camping multi-day trips and day trips for around Scotland. 
+  - Users can continue to return to the site to fill out the checklist for each trip they go on adding value for returning users
+  - This page will also give links with gear suggestions should users wish to purchase new gear for their trip
+
+
+![What to pack]SCREENSHOT
+
+- __Suggested Walks Page__
+
+  - This section will provide links to various walks around Scotland with a little insight into each one. 
+  - This section will be updated as new walks are suggested in different areas around Scotland
+
+![Suggested Walks] SCREENSHOT
+
+
+- __The Sign Up Page__
+
+  - This page will allow the user to get signed up to group walks that will take place in Scotland. They will provide their first name, last name, email, which area they prefer and a month range they would like to walk in. 
+
+![Sign Up] SCREENSHOT
+
+
+### Features Left to Implement
+
+- Users ability to suggest walks – A form where users can comment in a walk they have recently been on with recommendations about the walk (parking, gear, direction etc)
+
+- Users ability to upload photos of their walks in the suggested walks section so that other users can see what it looks like from anothers users perspective
+
+- Weather section so that users travelling to Scotland can see what the weather may be like in certain areas before making the trip up
+
+
+
+## Testing 
+
+TO BE ADDED
+
+### Validator Testing 
+
+- HTML
+  - [W3C validator]
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator]
+
+### Unfixed Bugs
+
+TO BE ADDED
+
+## Deployment
+
+This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+The live link can be found here – TO BE ADDED 
+
+
+## Credits 
+
+TO BE ADDED
+
+### Content 
+
+- To be added
+- To be added
+- The icons in the … were taken from [Font Awesome](https://fontawesome.com/)
+
+### Media
+
+- The photos used on the home and sign up page are from Sarah Goodwin’s personal phone photos
+- The images used for the suggested walks page were taken from Sarah Goodwin’s personal phone photos
+- The images for the logo and homepage were created by Sarah Goodwin using Canva Pro
