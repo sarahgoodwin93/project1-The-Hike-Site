@@ -16,6 +16,8 @@ body h1 {
     text-transform: uppercase;
 }
 
+/* Nav bar & logo */
+
 header a {
     text-decoration: none;
     color: #da6220;
@@ -48,6 +50,7 @@ header a {
     border-bottom: 1px dotted #da6220;
 }
 
+/* Hero Image */
 
 #hero-image {
     height: 300px;
@@ -55,7 +58,18 @@ header a {
     background: url('../images/hero-image-2.png') no-repeat center center;
 }
 
-/*  Suggested walks boxes */
+/*  Suggested walks boxes homepage */
+
+#suggested-walk-heading {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 20px;
+
+}
 
 #suggested-walks-home {
     display: flex;
@@ -63,6 +77,7 @@ header a {
     flex-direction: row;
     padding: 10px;
     text-align: center;
+    padding-top: 20px;
 }
 
 .suggested-walks-box {
@@ -75,7 +90,40 @@ header a {
     text-align: center;
 }
 
+/* About Section */
+
 #about {
-    margin-right: 30px;
-    padding: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 20px;
+}
+
+.about-section {
+    display: flex;
+    justify-content: center;
+    font-size: medium;
+    text-align: center;
+}
+
+#about-image {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+/* What to Pack Homepage */
+
+#wild-camping-home {
+    display: flex;
+    justify-content: flex-start;
+    text-transform: uppercase;
+}
+
+#day-trip-home {
+    display: flex;
+    justify-content: flex-end;
+    text-transform: uppercase;
 }
