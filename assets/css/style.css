@@ -88,6 +88,7 @@ header a {
     padding: 10px 10px 10px 10px;
     margin-left: 40px;
     text-align: center;
+    clear: both;
 }
 
 /* About Section */
@@ -120,10 +121,46 @@ header a {
     display: flex;
     justify-content: flex-start;
     text-transform: uppercase;
+    margin: 20px 20px 20px 60px;
 }
 
 #day-trip-home {
     display: flex;
     justify-content: flex-end;
     text-transform: uppercase;
+    margin: 20px 60px 20px 20px;
+}
+
+#wild-camp-img {
+    display: block;
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    background-color: #da6220;
+    padding: 10px 10px 10px 10px;
+    clear: both;
+}
+
+#day-trip-img {
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    background-color: #da6220;
+    padding: 10px 10px 10px 10px;
+    clear: both;
+}
+
+#packing {
+    width: 100%;
+    display: flex;
+    padding: 40px 50px;
+}
+
+.packing-circles {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
 }
