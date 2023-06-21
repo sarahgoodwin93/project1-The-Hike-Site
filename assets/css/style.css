@@ -54,3 +54,28 @@ header a {
     width: 100%;
     background: url('../images/hero-image-2.png') no-repeat center center;
 }
+
+/*  Suggested walks boxes */
+
+#suggested-walks-home {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding: 10px;
+    text-align: center;
+}
+
+.suggested-walks-box {
+    height: 100px;
+    width: 100px;
+    border-radius: 30px;
+    background-color: #da6220;
+    padding: 10px 10px 10px 10px;
+    margin-left: 40px;
+    text-align: center;
+}
+
+#about {
+    margin-right: 30px;
+    padding: 10px;
+}
