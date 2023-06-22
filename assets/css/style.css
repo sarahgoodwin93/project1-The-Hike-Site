@@ -78,6 +78,7 @@ header a {
     padding: 10px;
     text-align: center;
     padding-top: 20px;
+    width: 100%;
 }
 
 .suggested-walks-box {
@@ -86,9 +87,46 @@ header a {
     border-radius: 30px;
     background-color: #da6220;
     padding: 10px 10px 10px 10px;
-    margin-left: 40px;
     text-align: center;
     clear: both;
+    justify-content: center;
+    align-items: center;
+}
+
+#highlands {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px 10px 10px;
+}
+
+#trossachs {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px 10px 10px;
+}
+
+#borders {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px 10px 10px;
+}
+
+#cairngorms {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px 10px 10px;
 }
 
 /* About Section */
@@ -163,4 +201,12 @@ header a {
     width: 50%;
     justify-content: center;
     align-items: center;
+}
+
+#wild-camp-heading {
+    margin: 20px;
+}
+
+#day-trip-heading {
+    margin: 20px;
 }
