@@ -233,3 +233,8 @@ header a {
     width: 100%;
     background: url('../images/what-to-pack-hero.jpeg') no-repeat center center;
 }
+
+#wild-camping-checklist {
+    display: flex;
+    flex-direction: column;
+}
