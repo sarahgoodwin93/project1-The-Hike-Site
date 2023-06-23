@@ -16,6 +16,10 @@ body h1 {
     text-transform: uppercase;
 }
 
+h2 {
+    text-transform: uppercase;
+}
+
 /* Nav bar & logo */
 
 header a {
