@@ -55,7 +55,7 @@ header a {
 #hero-image {
     height: 300px;
     width: 100%;
-    background: url('../images/hero-image-2.png') no-repeat center center;
+    background: url('../images/homepage-hero.png') no-repeat center center;
 }
 
 /*  Suggested walks boxes homepage */
@@ -74,11 +74,7 @@ header a {
 #suggested-walks-home {
     display: flex;
     justify-content: center;
-    flex-direction: row;
-    padding: 10px;
-    text-align: center;
     padding-top: 20px;
-    width: 100%;
 }
 
 .suggested-walks-box {
@@ -93,7 +89,7 @@ header a {
     align-items: center;
 }
 
-#highlands {
+#highlands-home {
     display: flex;
     flex-direction: column;
     width: 50%;
@@ -102,7 +98,7 @@ header a {
     padding: 10px 10px 10px 10px;
 }
 
-#trossachs {
+#trossachs-home {
     display: flex;
     flex-direction: column;
     width: 50%;
@@ -111,7 +107,7 @@ header a {
     padding: 10px 10px 10px 10px;
 }
 
-#borders {
+#borders-home {
     display: flex;
     flex-direction: column;
     width: 50%;
@@ -120,7 +116,7 @@ header a {
     padding: 10px 10px 10px 10px;
 }
 
-#cairngorms {
+#cairngorms-home {
     display: flex;
     flex-direction: column;
     width: 50%;
@@ -144,6 +140,8 @@ header a {
     justify-content: center;
     font-size: medium;
     text-align: center;
+    margin-left: 60px;
+    margin-right: 60px;
 }
 
 #about-image {
@@ -209,4 +207,25 @@ header a {
 
 #day-trip-heading {
     margin: 20px;
+}
+
+/*  Suggested Walks Page */
+
+#hero-image-walks {
+    height: 300px;
+    width: 100%;
+    background: url('../images/suggested-walks-hero.png') no-repeat center center;
+}
+
+#walk-about-section {
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+/*  What to pack page */
+
+#hero-image-pack {
+    height: 300px;
+    width: 100%;
+    background: url('../images/what-to-pack-hero.jpeg') no-repeat center center;
 }
