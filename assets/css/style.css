@@ -239,9 +239,13 @@ header a {
     background: url('../images/suggested-walks-hero.png') no-repeat center center;
 }
 
-#wild-camping-checklist {
+#wild-camp-checkbox {
     display: flex;
     flex-direction: column;
+}
+
+input[type='checkbox'] {
+    accent-color: #da6220;
 }
 
 /* Media Queries */
