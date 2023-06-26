@@ -102,7 +102,6 @@ header a {
 #highlands-home {
     display: flex;
     flex-direction: column;
-    width: 50%;
     justify-content: center;
     align-items: center;
     padding: 10px 10px 10px 10px;
@@ -112,7 +111,6 @@ header a {
 #trossachs-home {
     display: flex;
     flex-direction: column;
-    width: 50%;
     justify-content: center;
     align-items: center;
     padding: 10px 10px 10px 10px;
@@ -121,7 +119,6 @@ header a {
 #borders-home {
     display: flex;
     flex-direction: column;
-    width: 50%;
     justify-content: center;
     align-items: center;
     padding: 10px 10px 10px 10px;
@@ -130,7 +127,6 @@ header a {
 #cairngorms-home {
     display: flex;
     flex-direction: column;
-    width: 50%;
     justify-content: center;
     align-items: center;
     padding: 10px 10px 10px 10px;
@@ -248,8 +244,10 @@ header a {
     flex-direction: column;
 }
 
-#packing {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+@media screen and (max-width: 600px) {
+    .packing-circles {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
 }
