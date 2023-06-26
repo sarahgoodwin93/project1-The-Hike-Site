@@ -79,6 +79,7 @@ header a {
     display: flex;
     justify-content: center;
     padding-top: 20px;
+    flex-wrap: wrap;
 }
 
 .suggested-walks-box {
@@ -213,10 +214,12 @@ header a {
 
 #wild-camp-heading {
     margin: 20px;
+    text-align: center;
 }
 
 #day-trip-heading {
     margin: 20px;
+    text-align: center;
 }
 
 /*  Suggested Walks Page */
@@ -243,4 +246,10 @@ header a {
 #wild-camping-checklist {
     display: flex;
     flex-direction: column;
+}
+
+#packing {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
