@@ -107,6 +107,11 @@ header a {
     padding: 10px 10px 10px 10px;
 }
 
+#highland-link:hover {
+    color: pink;
+    border: dotted green;
+}
+
 
 #trossachs-home {
     display: flex;
