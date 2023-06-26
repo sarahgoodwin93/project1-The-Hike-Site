@@ -83,14 +83,11 @@ header a {
 
 .suggested-walks-box {
     height: 100px;
-    width: 100px;
+    width: 100px px;
     border-radius: 30px;
     background-color: #da6220;
     padding: 10px 10px 10px 10px;
-    text-align: center;
-    clear: both;
-    justify-content: center;
-    align-items: center;
+
 }
 
 #highlands-home {
