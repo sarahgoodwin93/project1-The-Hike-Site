@@ -2,8 +2,8 @@
 
 * {
     margin: 0;
-    padding: 0;
     border: none;
+    box-sizing: border-box;
 }
 
 body {
@@ -83,11 +83,19 @@ header a {
 
 .suggested-walks-box {
     height: 100px;
-    width: 100px px;
+    width: 100px;
     border-radius: 30px;
     background-color: #da6220;
     padding: 10px 10px 10px 10px;
+    text-align: center;
+    clear: both;
+    justify-content: center;
+    align-items: center;
+}
 
+.center-box {
+    display: flex;
+    justify-content: center;
 }
 
 #highlands-home {
@@ -98,6 +106,7 @@ header a {
     align-items: center;
     padding: 10px 10px 10px 10px;
 }
+
 
 #trossachs-home {
     display: flex;
