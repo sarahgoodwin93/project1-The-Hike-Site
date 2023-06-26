@@ -244,6 +244,8 @@ header a {
     flex-direction: column;
 }
 
+/* Media Queries */
+
 @media screen and (max-width: 600px) {
     .packing-circles {
         width: 100%;
