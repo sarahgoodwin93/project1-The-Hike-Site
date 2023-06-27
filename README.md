@@ -47,8 +47,17 @@ The target audience for this website is
 
 ### Colour Scheme
 
-Using [ColorHexa] (https://www.colorhexa.com/c4581d/) the colour scheme is based on the colour #c4581d
-This is complimented by a lighter tint of -
+Using [ColorHexa] (https://www.colorhexa.com/c4581d/) the colour scheme is based on the colour {#c4581d}
+This is complimented by a lighter tint of - {#eeb18f}
+These colours were chosen as they represent the sunrises and sunsets often seen in Scotland during a hike, this can be seen in the hero image as well where the sunset compliments the colours.
+
+![Colour Palette] (assets/readme-images/colour-pallete.png)
+
+### Wire frames
+
+Wireframes were made at the beginning to flesh out the ideas and user experience of the site. The wireframes were created using a desktop version of [Balsamiq](https://balsamiq.com/).
+
+![Wire Frames] (assets/readme-images/wireframe.png)
 
 ## Features
 
