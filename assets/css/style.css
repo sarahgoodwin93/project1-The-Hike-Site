@@ -269,6 +269,13 @@ header a {
     text-decoration: underline;
 }
 
+.back-to-top-button a {
+    font-weight: 200%;
+    font-size: small;
+    text-decoration: dotted;
+    color: #e78f5f;
+}
+
 /*  What to pack page */
 
 #hero-image-pack {
@@ -277,13 +284,19 @@ header a {
     background: url('../images/suggested-walks-hero-tiny.png') no-repeat center center;
 }
 
-#wild-camp-checkbox {
+.checklist {
     display: flex;
     flex-direction: column;
 }
 
 input[type='checkbox'] {
     accent-color: #c4581d;
+}
+
+.pack-body-section {
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-right: 20px;
 }
 
 /* Media Queries */
