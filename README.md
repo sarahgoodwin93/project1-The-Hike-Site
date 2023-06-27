@@ -1,10 +1,42 @@
 # The Hike Site
 
-The Hike Site is by hikers for hikers. A place people can come to in order to get information for their trip to Scotland. Could be a day hike or a multi-day wild camping trip, The Hike Site has helpful tips and tricks to make your adventure the best it can be. 
+The Hike Site is by hikers for hikers. A place people can come to in order to get information for their hiking trip to Scotland. Could be a day hike or a multi-day wild camping trip, The Hike Site has helpful tips and tricks to make your adventure the best it can be. 
 
 The site will target people who are wanting to come to Scotland for a hiking trip and give information about different suggested walks, gear they could take, a checklist and a chance to sign up to a group walk. 
 
+The idea of the site comes from a need to combine walking suggestion sites, gear sites and house a checklist, all in the one place, to allow users to come to a one-stop-shop for their trip.
+
 MOCK UP GOES HERE
+
+### Target Audience
+
+The target audience for this website is
+* Scottish Hikers 
+* UK Hikers
+* Return users 
+* Community seekers
+
+### User Stories
+#### Scottish Hikers
+1. As a Scottish hiker, I want to have updates on new gear suggestions every month
+2. As a Scottish hiker, I want to be able to navigate to my relevant areas quickly and easily
+3. As a Scottish hikers, I want to have suggested walks updated often so I can try new places
+
+#### UK Hikers
+1. As a UK hiker, I want to be able to navigate the site with ease, even if I am new to scotland hikes
+2. As a UK hiker, I want to be able to see suggested walks so I can plan my trip to Scotland
+3. As a UK hiker, I want to be given some information about Scotlands different areas
+
+#### Return Users
+1. As a return user, I want to be able to navigate to the checklist quickly and easily
+2. As a return users, I expect to see new updates for walks and gear to keep me wanitng to come back
+3. As a return user, I want the information I need to be easily accessabile
+
+#### Community seekers
+1. As a community seeker, I want to be able to register my intestest in group walks
+2. As a community seeker, I want to be able to navigate through the site efficently
+3. As a community seeker, I want to have access to new informaiton regarding walks so I can meet with others to walk together
+
 
 ## Features 
 
