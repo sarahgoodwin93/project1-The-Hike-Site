@@ -237,13 +237,14 @@ header a {
 }
 
 #walk-about-section {
-    margin-left: 30px;
+    margin-left: 20px;
     margin-top: 10px;
+    margin-right: 20px;
 }
 
 .walking-button {
     border-radius: 30px;
-    background-color: #c4581d;
+    background-color: #e78f5f;
     padding: 10px 10px 10px 10px;
     text-align: center;
     justify-content: center;
@@ -252,6 +253,10 @@ header a {
 
 .walking-button a {
     color: white;
+}
+
+#walk-about-section h3 {
+    text-transform: uppercase;
 }
 
 /*  What to pack page */
