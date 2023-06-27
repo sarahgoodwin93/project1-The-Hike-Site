@@ -189,9 +189,9 @@ header a {
     height: 300px;
     width: 300px;
     border-radius: 100%;
-    background-color: #da6220;
     padding: 10px 10px 10px 10px;
     clear: both;
+    background: url('../images/what-to-pack-wild.png');
 }
 
 #day-trip-img {
@@ -199,9 +199,9 @@ header a {
     height: 300px;
     width: 300px;
     border-radius: 100%;
-    background-color: #da6220;
     padding: 10px 10px 10px 10px;
     clear: both;
+    background: url('../images/what-to-pack-day.png');
 }
 
 #packing {
