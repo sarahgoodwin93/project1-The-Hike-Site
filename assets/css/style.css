@@ -315,6 +315,17 @@ input[type='checkbox'] {
     margin-right: 20px;
 }
 
+.question {
+    color: #c4581d;
+    width: 50%;
+    height: 25px;
+    border: 1px solid #c4581d;
+    border-radius: 2px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 600px) {
