@@ -289,6 +289,22 @@ header a {
     flex-direction: column;
 }
 
+.reset {
+    border-radius: 30px;
+    background-color: #e78f5f;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    margin: auto;
+}
+
+.reset:hover {
+    background-color: #ffff;
+    color: #c4581d;
+}
+
 input[type='checkbox'] {
     accent-color: #c4581d;
 }
