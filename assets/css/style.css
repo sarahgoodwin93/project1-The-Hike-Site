@@ -59,7 +59,7 @@ header a {
 #hero-image {
     height: 300px;
     width: 100%;
-    background: url('../images/homepage-hero.png') no-repeat center center;
+    background: url('../images/suggested-walks-hero-tiny.png') no-repeat center center;
 }
 
 /*  Suggested walks boxes homepage */
@@ -228,7 +228,7 @@ header a {
 #hero-image-walks {
     height: 300px;
     width: 100%;
-    background: url('../images/suggested-walks-hero.png') no-repeat center center;
+    background: url('../images/suggested-walks-hero-tiny.png') no-repeat center center;
 }
 
 #walk-about-section {
@@ -241,7 +241,7 @@ header a {
 #hero-image-pack {
     height: 300px;
     width: 100%;
-    background: url('../images/suggested-walks-hero.png') no-repeat center center;
+    background: url('../images/suggested-walks-hero-tiny.png') no-repeat center center;
 }
 
 #wild-camp-checkbox {
