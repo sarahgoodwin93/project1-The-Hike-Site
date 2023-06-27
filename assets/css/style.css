@@ -240,6 +240,7 @@ header a {
     margin-left: 20px;
     margin-top: 10px;
     margin-right: 20px;
+    text-align: center;
 }
 
 .walking-button {
@@ -249,10 +250,12 @@ header a {
     text-align: center;
     justify-content: center;
     align-items: center;
+    width: fit-content;
 }
 
 .walking-button a {
     color: white;
+    text-decoration: none;
 }
 
 #walk-about-section h3 {
