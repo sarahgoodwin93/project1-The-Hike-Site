@@ -9,7 +9,7 @@
 body {
     font-family: Barlow, sans-serif;
     font-weight: 100;
-    color: #da6220;
+    color: #c4581d;
 }
 
 body h1 {
@@ -24,7 +24,7 @@ h2 {
 
 header a {
     text-decoration: none;
-    color: #da6220;
+    color: #c4581d;
 }
 
 #logo {
@@ -33,7 +33,7 @@ header a {
     align-items: center;
     padding-bottom: 30px;
     text-decoration: none;
-    color: #da6220;
+    color: #c4581d;
 }
 
 #menu li {
@@ -47,11 +47,11 @@ header a {
 
 #menu a {
     text-decoration: none;
-    color: #da6220;
+    color: #c4581d;
 }
 
 #menu a:hover {
-    border-bottom: 1px dotted #da6220;
+    border-bottom: 1px dotted #c4581d;
 }
 
 /* Hero Image */
@@ -86,7 +86,7 @@ header a {
     height: 100px;
     width: 100px;
     border-radius: 30px;
-    background-color: #da6220;
+    background-color: #c4581d;
     padding: 10px 10px 10px 10px;
     text-align: center;
     clear: both;
@@ -255,7 +255,7 @@ header a {
 }
 
 input[type='checkbox'] {
-    accent-color: #da6220;
+    accent-color: #c4581d;
 }
 
 /* Media Queries */
