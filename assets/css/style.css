@@ -241,6 +241,19 @@ header a {
     margin-top: 10px;
 }
 
+.walking-button {
+    border-radius: 30px;
+    background-color: #c4581d;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.walking-button a {
+    color: white;
+}
+
 /*  What to pack page */
 
 #hero-image-pack {
