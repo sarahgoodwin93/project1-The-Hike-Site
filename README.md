@@ -1,4 +1,4 @@
-# The Hike Site
+# ![The Hike Site](https://sarahgoodwin93.github.io/The-Hike-Site/)
 
 The Hike Site is by hikers for hikers. A place people can come to in order to get information for their hiking trip to Scotland. Could be a day hike or a multi-day wild camping trip, The Hike Site has helpful tips and tricks to make your adventure the best it can be.
 
@@ -47,60 +47,107 @@ The target audience for this website is
 
 ### Colour Scheme
 
-Using [ColorHexa] (https://www.colorhexa.com/c4581d/) the colour scheme is based on the colour {#c4581d}
+Using [ColorHexa](https://www.colorhexa.com/c4581d/) the colour scheme is based on the colour {#c4581d}
 This is complimented by a lighter tint of - {#eeb18f}
 These colours were chosen as they represent the sunrises and sunsets often seen in Scotland during a hike, this can be seen in the hero image as well where the sunset compliments the colours.
 
-![Colour Palette] (assets/readme-images/colour-pallete.png)
+![Colour Palette](assets/readme-img/colour-pallete.png)
 
 ### Wire frames
 
 Wireframes were made at the beginning to flesh out the ideas and user experience of the site. The wireframes were created using a desktop version of [Balsamiq](https://balsamiq.com/).
 
-![Wire Frames] (assets/readme-images/wireframe.png)
+![Wire Frames](assets/readme-img/wireframe.png)
+
+### Typography
+
+The font ![Barlow](https://fonts.google.com/?query=Barlow) has been used throughout the site, utilizing different weights and sizes to distigusted headings and text.
+
+Sans-Serif has been applied as a back-up in case of import failure.
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+### Navigation
 
-### Existing Features
+Each page has a navigation menu allowing the user to link back to the page they require information from.
+The navigation options include:
 
-- **Navigation Bar**
+- Home
+- What to Pack
+- Suggested Walks
+- Sign Up
 
-  - Featured on all pages, the full responsive navigation bar includes links to the Home page, What to Pack page, Suggested Walks and Sign up. It is the same across all pages to allow for easy navigation.
-
-  - This feature allows people to navigate throughout the site without having to use a ‘back’ button, and allows them to access all areas of the site at any time.
+The navigation bar stays in the same place for each page, which allows people to navigate throughout the site without having to use a ‘back’ button, and allows them to access all areas of the site at any time.
 
 ![Nav Bar] SCRENSHOT
 
-- **The Home page**
+### Home
 
-  - The landing includes a photograph that draws users attention to what the site is about and its purpose.
-  - The homepage gives links to different areas in Scotland for suggested walks to provide quick access to a specific region.
-  - This section introduces the user to a brief ‘about section’ so that they know if the site will suit their needs or not
-  - This page also provides links to the What to Pack page to give users additional access
+- The landing includes a photograph that draws users attention to what the site is about and its purpose.
+- The homepage gives links to different areas in Scotland for suggested walks to provide quick access to a specific region.
+- This section introduces the user to a brief ‘about section’ so that they know if the site will suit their needs or not
+- This page also provides links to the What to Pack page to give users additional access
+
+The homepage contains the 'About section', as well as links to the other pages on 'The Hike Site'.
+
+The Suggests Walks buttons allows users to click directly into the area they want to see, rather than having to navigate through the whole page via scrolling.
+
+The two 'What to Pack' buttons allow users to go directly to their releveant walk length to be able to access the checklist straight away.
+
+The homepage will adjust to fit the size of your screen, with elements and sections moving from taking up the full width, to moving on-top of each other for smaller screen sizes.
 
 ![Home Page]SCREENSHOT
 
-- **The Footer**
+### The Footer
 
-  - The footer section includes links to the relevant social media sites for hiking around Scotland
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+The footer section includes links to the relevant social media sites for hiking around Scotland.
+
+The footer is valuable to the user as it encourages them to keep connected via social media
 
 ![Footer]SCREENSHOT
 
-- **What to Pack Page**
+### What to Pack Page
 
-  - The ‘what to pack’ section allows users to create a checklist of their gear for both wild camping multi-day trips and day trips for around Scotland.
-  - Users can continue to return to the site to fill out the checklist for each trip they go on adding value for returning users
-  - This page will also give links with gear suggestions should users wish to purchase new gear for their trip
+- The ‘What to Pack’ page allows users to create a checklist of their gear for both wild camping multi-day trips and day trips for around Scotland.
+- Users can continue to return to the site to fill out the checklist for each trip they go on, adding value for returning users
+- This page will also give links with gear suggestions should users wish to purchase new gear for their trip, there will be a top 5 every month to keep content fresh and exciting for returning users.
 
 ![What to pack]SCREENSHOT
 
-- **Suggested Walks Page**
+### Suggested Walks Page
 
-  - This section will provide links to various walks around Scotland with a little insight into each one.
-  - This section will be updated as new walks are suggested in different areas around Scotland
+- This 'Suggested Walks' page will provide links to various walks around Scotland with a little insight into each one.
+- This section will be updated as new walks are suggested in different areas around Scotland
+- Each walk and description has been taken from either ![walkinghighlands](https://www.walkhighlands.co.uk/) or ![All Trails](https://www.alltrails.com/en-gb/?ref=header) and each section contains links to these sites and the relevant walk
+- 'Back to top' links have been added after each section so that users do not need to scroll all the way back up in they wish to move on from the page.
+
+* Highlands - There are 4 walks for the Highlands
+
+- BEN NEVIS MOUNTAIN TRACK
+- LOST VALLEY, GLEN COE
+- THE PAP OF GLENCOE
+- LOCH AFFRIC CIRCUIT
+
+* Trossachs - There are 4 walks for the Trossachs
+
+- CONIC HILL
+- BEN LOMOND
+- LOCH KATRINE
+- LOCH LOMOND, INVERBEG AND GARELOCHHEAD
+
+* Borders - There are 4 walks for the Borderes
+
+- RIVER TWEED CIRCUIT, MELROSE
+- SAINT ABBS HEAD
+- GREY MARE'S TAIL AND LOCH SKEEN
+- GLENTRESS AND SPOOKY WOOD CIRCULAR
+
+* Cairngorms - There are 4 walks for the Cairngorms
+
+- BEN MACDUI AND STOB COIRE AN T-SNEACHDA CIRCULAR
+- LOCH MORLICH
+- NETHY BRIDGE RIVERSIDE AND DELL WOODS
+- ROTHIEMURCHUS FOREST CIRCULAR
 
 ![Suggested Walks] SCREENSHOT
 
