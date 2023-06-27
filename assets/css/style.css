@@ -245,7 +245,7 @@ header a {
 
 .walking-button {
     border-radius: 30px;
-    background-color: #e78f5f;
+    background-color: #eeb18f;
     padding: 10px 10px 10px 10px;
     text-align: center;
     justify-content: center;
@@ -273,7 +273,7 @@ header a {
     font-weight: 200%;
     font-size: small;
     text-decoration: dotted;
-    color: #e78f5f;
+    color: #eeb18f;
 }
 
 /*  What to pack page */
@@ -291,7 +291,7 @@ header a {
 
 .reset {
     border-radius: 30px;
-    background-color: #e78f5f;
+    background-color: #eeb18f;
     padding: 10px 10px 10px 10px;
     text-align: center;
     justify-content: center;
