@@ -262,6 +262,12 @@ header a {
     text-transform: uppercase;
 }
 
+.walk-headings {
+    font-weight: 200%;
+    font-size: x-large;
+    text-decoration: underline;
+}
+
 /*  What to pack page */
 
 #hero-image-pack {
