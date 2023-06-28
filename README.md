@@ -175,7 +175,10 @@ TO BE ADDED
 - HTML
   - [W3C validator]
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator]
+
+  - No errors were found when passing through the official Jigsaw validator
+
+  ![CSS Validator](assets/readme-img/css-valid.png "Css valid image")
 
 ### Unfixed Bugs
 
