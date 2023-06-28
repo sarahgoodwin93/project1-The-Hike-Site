@@ -322,6 +322,10 @@ ul {
     flex-direction: column;
 }
 
+#backpack {
+    float: left;
+}
+
 .reset {
     border-radius: 30px;
     background-color: #eeb18f;
@@ -340,6 +344,7 @@ ul {
 
 input[type='checkbox'] {
     accent-color: #984416;
+    float: left;
 }
 
 .pack-body-section {
