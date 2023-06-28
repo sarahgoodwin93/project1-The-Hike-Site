@@ -355,6 +355,14 @@ input[type='checkbox'] {
     margin-bottom: 10px;
 }
 
+/*  thank you page */
+
+#thank-you {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
 /* footer */
 
 .social {
