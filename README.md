@@ -168,7 +168,9 @@ The footer is valuable to the user as it encourages them to keep connected via s
 
 ## Testing
 
-TO BE ADDED
+### Manual Testing
+
+- Videos of each page being tested
 
 ### Validator Testing
 
@@ -245,3 +247,5 @@ The following sites assisted in learning more about the code that was being used
 * [Love Running](https://sarahgoodwin93.github.io/Love-Running/ "link to Love Running page")
 
 * HTML & CSS Code Insititue Modules and notes taken
+
+* Mentor, Lauren-Nicole, for all her help as support, the useful resources she provided and for being a friendly face throughout!
