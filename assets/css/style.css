@@ -9,7 +9,7 @@
 body {
     font-family: Barlow, sans-serif;
     font-weight: 100;
-    color: #c4581d;
+    color: #984416;
 }
 
 body h1 {
@@ -112,9 +112,9 @@ header a {
     padding: 10px 10px 10px 10px
 }
 
-#highland-link:hover {
-    color: pink;
-    border: dotted green;
+.suggested-walks-box:hover {
+    background-color: white;
+    border: solid #c4581d;
 }
 
 
