@@ -95,9 +95,20 @@ ul {
     align-items: center;
 }
 
-.suggested-walks-box,
 .suggested-walks-highland {
     background: url('../images/highlands-button.png');
+}
+
+.suggested-walks-trossachs {
+    background: url('../images/trossachs-button.png');
+}
+
+.suggested-walks-borders {
+    background: url('../images/borders-button.png');
+}
+
+.suggested-walks-cairngorms {
+    background: url('../images/cairngorms-button.png');
 }
 
 .center-box {
