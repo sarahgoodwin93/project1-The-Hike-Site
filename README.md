@@ -98,14 +98,6 @@ The homepage will adjust to fit the size of your screen, with elements and secti
 
 ![Home Page]SCREENSHOT
 
-### The Footer
-
-The footer section includes links to the relevant social media sites for hiking around Scotland.
-
-The footer is valuable to the user as it encourages them to keep connected via social media
-
-![Footer]SCREENSHOT
-
 ### What to Pack Page
 
 - The ‘What to Pack’ page allows users to create a checklist of their gear for both wild camping multi-day trips and day trips for around Scotland.
@@ -151,11 +143,20 @@ The footer is valuable to the user as it encourages them to keep connected via s
 
 ![Suggested Walks] SCREENSHOT
 
-- **The Sign Up Page**
+### The Sign Up Page
 
-  - This page will allow the user to get signed up to group walks that will take place in Scotland. They will provide their first name, last name, email, which area they prefer and a month range they would like to walk in.
+- This page will allow the user to get signed up to group walks that will take place in Scotland.
+- They will provide their first name, last name, email, which area they prefer and a week range they would like to walk in.
 
 ![Sign Up] SCREENSHOT
+
+### The Footer
+
+The footer section includes links to the relevant social media sites for hiking around Scotland.
+
+The footer is valuable to the user as it encourages them to keep connected via social media
+
+![Footer]SCREENSHOT
 
 ### Features Left to Implement
 
@@ -190,6 +191,24 @@ This section should describe the process you went through to deploy the project 
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found here – TO BE ADDED
+
+## Technologies Used
+
+- ![HTML5](https://en.wikipedia.org/wiki/HTML5)
+- ![CSS3](https://en.wikipedia.org/wiki/CSS)
+
+* [Google Fonts](https://fonts.google.com/)
+  Uused to import the font "Barlow" which was used throughout the platform
+* [Codeanywhere](https://app.codeanywhere.com/)
+  GitPod was used for writing code, adding, commiting and pushing to girhub
+* GitHub
+  GitHub was used to store the code files, README files and asset files after pushing
+* Balsamiq
+  Balsamiq was used to create the wireframes before the project was started to get ideas down and map our the basic structure of the site
+* Canva
+  Canva Pro was used to create images for the site
+* Am I Responsive?
+  Am I Responsive was used in order to see responsive design and create screenshots of the final page on different devices.
 
 ## Credits
 
