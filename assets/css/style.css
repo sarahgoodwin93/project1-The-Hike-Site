@@ -204,7 +204,7 @@ header a {
     background: url('../images/what-to-pack-day.png');
 }
 
-#packing {
+.packing {
     width: 100%;
     display: flex;
     padding: 40px 50px;
