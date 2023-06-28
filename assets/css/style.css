@@ -51,6 +51,10 @@ header a {
     border-bottom: 1px dotted #c4581d;
 }
 
+ul {
+    padding-inline-start: inherit;
+}
+
 /* Hero Image */
 
 #hero-image {
@@ -169,14 +173,14 @@ header a {
 
 #wild-camping-home {
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     text-transform: uppercase;
-    margin: 20px 20px 20px 60px;
+    margin: 20px;
 }
 
 #day-trip-home {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     text-transform: uppercase;
 }
 
@@ -201,16 +205,21 @@ header a {
 }
 
 .packing {
-    width: 50%;
+    width: 100%;
     display: flex;
     padding: 40px 50px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 .packing-circles {
     display: flex;
     flex-direction: row;
-    width: 100%;
+    width: 43%;
     align-items: center;
+    min-width: 300px;
 }
 
 #wild-camp-heading {
