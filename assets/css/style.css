@@ -39,9 +39,6 @@ header a {
 #menu li {
     display: flex;
     justify-content: center;
-    align-items: center;
-    list-style-type: none;
-    flex-direction: row;
     padding-bottom: 10px;
 }
 
