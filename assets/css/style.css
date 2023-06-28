@@ -205,6 +205,12 @@ ul {
     background: url('../images/what-to-pack-wild.png');
 }
 
+#wild-camp-img:hover {
+    background-color: white;
+    border: solid #984416;
+
+}
+
 #day-trip-img {
     display: inline-block;
     height: 300px;
@@ -213,6 +219,12 @@ ul {
     padding: 10px 10px 10px 10px;
     clear: both;
     background: url('../images/what-to-pack-day.png');
+}
+
+#day-trip-img:hover {
+    background-color: white;
+    border: solid #984416;
+
 }
 
 .packing {
