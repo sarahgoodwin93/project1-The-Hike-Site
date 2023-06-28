@@ -42,25 +42,26 @@
         </section>
 
         <section class="form">
-            <form class="signup-form" method="POST" action="https://sarahgoodwin93.github.io/The-Hike-Site/">
+            <form class="signup-form" action="thank-you.html">
                 <h2 class="walk-headings">Upcoming Walk Sign Up</h2>
                 <br>
                 <h3>Sign Up for July Events</h3>
+                <h6>* All fields are required</h6>
                 <br>
-                <label for="firstname">First Name:</label>
+                <label for="firstname">First Name:*</label>
                 <br>
-                <input class="question" id="firstname" name="first_name" type="text">
+                <input class="question" id="firstname" name="first_name" type="text" required>
                 <br>
-                <label for="lastname">Last Name:</label>
+                <label for="lastname">Last Name:*</label>
                 <br>
-                <input class="question" id="lastname" name="last_name" type="text">
+                <input class="question" id="lastname" name="last_name" type="text" required>
                 <br>
-                <label for="email">Email Address:</label>
+                <label for="email">Email Address:*</label>
                 <br>
-                <input class="question" type="email" id="email" name="email_address">
+                <input class="question" type="email" id="email" name="email_address" required>
                 <br>
-                <label for="wc">Week Commencing:</label>
-                <select name="wc" id="wc">
+                <label for="wc">Week Commencing:*</label>
+                <select name="wc" id="wc" required>
                     <option value="please-choose">Please Select One</option>
                     <option value="3rd-july">3rd July 2023</option>
                     <option value="10th-july">10th July 2023</option>
@@ -68,8 +69,8 @@
                     <option value="24th-july">24th July 2023</option>
                 </select>
                 <br>
-                <label for="area">Area of Scotland:</label>
-                <select name="area" id="area">
+                <label for="area">Area of Scotland:*</label>
+                <select name="area" id="area" required>
                     <option value="please-choose">Please Select One</option>
                     <option value="3rd-july">Highlands</option>
                     <option value="10th-july">Trossachs</option>
@@ -85,21 +86,26 @@
     </main>
 </body>
 
+<!-- Footer -->
+
 <footer class="social">
-    <ul>
-        <li>
-            <a href="https://twitter.com" target="_blank" rel="noopener"
-                aria-label="Visit our Twitter page (opens in a new tab)"><i class="fab fa-twitter-square"></i></a>
+    <ul id="footer-list">
+        <li id="twitter">
+            Connect with us on our socials <a href="https://twitter.com" target="_blank" rel="noopener"
+                aria-label="Twitter page"><i class="fab fa-twitter-square icon"></i></a>
         </li>
-        <li>
-            <a href="https://pintrest.com" target="_blank" rel="noopener"
-                aria-label="Visit our Pintrest page (opens in a new tab)"><i class="fab fa-pintrest-square"></i></a>
+        <li id="instagram">
+            <a href="https://instagram.com" target="_blank" rel="noopener" aria-label="Instagram page"><i
+                    class="fab fa-instagram icon"></i></a>
         </li>
-        <li>
-            <a href="https://instagram.com" target="_blank" rel="noopener"
-                aria-label="Visit our Instagram page (opens in a new tab)"><i class="fab fa-instagram"></i></a>
+        <li id="linkedin">
+            <a href="https://instagram.com" target="_blank" rel="noopener" aria-label="Linkedin Page"><i
+                    class="fa-brands fa-linkedin icon"></i></a>
         </li>
     </ul>
 </footer>
+
+<script src="https://kit.fontawesome.com/17e7a6d47c.js" crossorigin="anonymous"></script>
+
 
 </html>

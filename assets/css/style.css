@@ -24,7 +24,7 @@ h2 {
 
 header a {
     text-decoration: none;
-    color: #c4581d;
+    color: #984416;
 }
 
 #logo {
@@ -32,7 +32,7 @@ header a {
     justify-content: center;
     align-items: center;
     padding-bottom: 30px;
-    color: #c4581d;
+    color: #984416;
     margin-top: 10px;
 }
 
@@ -44,11 +44,11 @@ header a {
 
 #menu a {
     text-decoration: none;
-    color: #c4581d;
+    color: #984416;
 }
 
 #menu a:hover {
-    border-bottom: 1px dotted #c4581d;
+    border-bottom: 1px dotted #984416;
 }
 
 ul {
@@ -87,7 +87,7 @@ ul {
     height: 100px;
     width: 100px;
     border-radius: 30px;
-    background-color: #c4581d;
+    background-color: #984416;
     padding: 10px 10px 10px 10px;
     text-align: center;
     clear: both;
@@ -115,7 +115,7 @@ ul {
 
 .suggested-walks-box:hover {
     background-color: white;
-    border: solid #c4581d;
+    border: solid #984416;
 }
 
 
@@ -259,7 +259,7 @@ ul {
 }
 
 .walking-button a {
-    color: white;
+    color: #984416;
     text-decoration: none;
 }
 
@@ -277,7 +277,7 @@ ul {
     font-weight: 700;
     font-size: small;
     text-decoration: dotted;
-    color: #eeb18f;
+    color: #984416;
 }
 
 /*  What to pack page */
@@ -306,11 +306,11 @@ ul {
 
 .reset:hover {
     background-color: #ffff;
-    color: #c4581d;
+    color: #984416;
 }
 
 input[type='checkbox'] {
-    accent-color: #c4581d;
+    accent-color: #984416;
 }
 
 .pack-body-section {
@@ -322,10 +322,10 @@ input[type='checkbox'] {
 /* form */
 
 .question {
-    color: #c4581d;
+    color: #984416;
     width: 30%;
     height: 25px;
-    border: 1px solid #c4581d;
+    border: 1px solid #984416;
     border-radius: 2px;
     margin-top: 5px;
     margin-bottom: 5px;
@@ -339,20 +339,20 @@ input[type='checkbox'] {
 }
 
 #wc {
-    color: #c4581d;
+    color: #984416;
     margin-top: 5px;
     margin-bottom: 5px;
 }
 
 #area {
-    color: #c4581d;
+    color: #984416;
     margin-top: 5px;
     margin-bottom: 5px;
 }
 
 #submit {
     margin-top: 5px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 /* footer */
