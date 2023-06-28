@@ -205,7 +205,7 @@ header a {
 }
 
 .packing {
-    width: 100%;
+    width: 50%;
     display: flex;
     padding: 40px 50px;
 }
@@ -213,7 +213,7 @@ header a {
 .packing-circles {
     display: flex;
     flex-direction: row;
-    width: 50%;
+    width: 100%;
     align-items: center;
 }
 
