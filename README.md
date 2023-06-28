@@ -113,28 +113,28 @@ The homepage will adjust to fit the size of your screen, with elements and secti
 - Each walk and description has been taken from either [walkinghighlands](https://www.walkhighlands.co.uk/ "Link to walkinghighlands webpage") or [All Trails](https://www.alltrails.com/en-gb/?ref=header "Link to All trails webpage") and each section contains links to these sites and the relevant walk
 - 'Back to top' links have been added after each section so that users do not need to scroll all the way back up in they wish to move on from the page.
 
-* Highlands - There are 4 walks for the Highlands
+#### Highlands - There are 4 walks for the Highlands
 
 - BEN NEVIS MOUNTAIN TRACK
 - LOST VALLEY, GLEN COE
 - THE PAP OF GLENCOE
 - LOCH AFFRIC CIRCUIT
 
-* Trossachs - There are 4 walks for the Trossachs
+#### Trossachs - There are 4 walks for the Trossachs
 
 - CONIC HILL
 - BEN LOMOND
 - LOCH KATRINE
 - LOCH LOMOND, INVERBEG AND GARELOCHHEAD
 
-* Borders - There are 4 walks for the Borderes
+#### Borders - There are 4 walks for the Borderes
 
 - RIVER TWEED CIRCUIT, MELROSE
 - SAINT ABBS HEAD
 - GREY MARE'S TAIL AND LOCH SKEEN
 - GLENTRESS AND SPOOKY WOOD CIRCULAR
 
-* Cairngorms - There are 4 walks for the Cairngorms
+#### Cairngorms - There are 4 walks for the Cairngorms
 
 - BEN MACDUI AND STOB COIRE AN T-SNEACHDA CIRCULAR
 - LOCH MORLICH
