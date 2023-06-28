@@ -201,18 +201,36 @@ The live link can be found here – TO BE ADDED
   Uused to import the font "Barlow" which was used throughout the platform
 * [Codeanywhere](https://app.codeanywhere.com/)
   GitPod was used for writing code, adding, commiting and pushing to girhub
-* GitHub
+* [GitHub](https://github.com/)
   GitHub was used to store the code files, README files and asset files after pushing
-* Balsamiq
+* [Balsamiq](https://balsamiq.com/)
   Balsamiq was used to create the wireframes before the project was started to get ideas down and map our the basic structure of the site
-* Canva
+* [Canva](https://www.canva.com/en_gb/login/)
   Canva Pro was used to create images for the site
-* Am I Responsive?
+* [Am I Responsive?](https://ui.dev/amiresponsive)
   Am I Responsive was used in order to see responsive design and create screenshots of the final page on different devices.
 
 ## Credits
 
-TO BE ADDED
+### Content
+
+Wording used for the 'Suggested Walks' page was taken from
+
+- [Walking Higlands](https://www.walkhighlands.co.uk/ "link to walkinghighlands webpage")
+- [All Trails](https://www.alltrails.com/en-gb/ "Link to All trails webpage")
+  Links to these pages for each section where wording was taken has been added to the page.
+
+### Images
+
+All images were created by Sarah Goodwin, using Canva Pro, stock images were used from canva to create these files
+
+### Education
+
+The following sites assisted in learning more about the code that was being used, or to gain a better understand of how to do things more efficiently
+
+- [Stack Overflow](https://stackoverflow.com/ "Link to Stack Overflow webpage")
+
+* [W3Schools](https://www.w3schools.com/ "Link to W3Schools webpage")
 
 ### Content
 
