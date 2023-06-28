@@ -1,4 +1,4 @@
-# ![The Hike Site](https://sarahgoodwin93.github.io/The-Hike-Site/)
+# ![The Hike Site](https://sarahgoodwin93.github.io/The-Hike-Site/ "Link to The Hike Site Webpage")
 
 The Hike Site is by hikers for hikers. A place people can come to in order to get information for their hiking trip to Scotland. Could be a day hike or a multi-day wild camping trip, The Hike Site has helpful tips and tricks to make your adventure the best it can be.
 
@@ -47,21 +47,21 @@ The target audience for this website is
 
 ### Colour Scheme
 
-Using [ColorHexa](https://www.colorhexa.com/c4581d/) the colour scheme is based on the colour {#c4581d}
+Using [ColorHexa](https://www.colorhexa.com/c4581d/ "Link to ColorHexa webpage") the colour scheme is based on the colour {#c4581d}
 This is complimented by a lighter tint of - {#eeb18f}
 These colours were chosen as they represent the sunrises and sunsets often seen in Scotland during a hike, this can be seen in the hero image as well where the sunset compliments the colours.
 
-![Colour Palette](assets/readme-img/colour-pallete.png)
+![Colour Palette](assets/readme-img/colour-pallete.png "color palette image")
 
 ### Wire frames
 
-Wireframes were made at the beginning to flesh out the ideas and user experience of the site. The wireframes were created using a desktop version of [Balsamiq](https://balsamiq.com/).
+Wireframes were made at the beginning to flesh out the ideas and user experience of the site. The wireframes were created using a desktop version of [Balsamiq](https://balsamiq.com/ "Link to Balsamiq webpage").
 
-![Wire Frames](assets/readme-img/wireframe.png)
+![Wire Frames](assets/readme-img/wireframe.png "wireframe image")
 
 ### Typography
 
-The font ![Barlow](https://fonts.google.com/?query=Barlow) has been used throughout the site, utilizing different weights and sizes to distigusted headings and text.
+The font ![Barlow](https://fonts.google.com/?query=Barlow "Link to Barlow on Google Fonts webpage") has been used throughout the site, utilizing different weights and sizes to distigusted headings and text.
 
 Sans-Serif has been applied as a back-up in case of import failure.
 
@@ -110,7 +110,7 @@ The homepage will adjust to fit the size of your screen, with elements and secti
 
 - This 'Suggested Walks' page will provide links to various walks around Scotland with a little insight into each one.
 - This section will be updated as new walks are suggested in different areas around Scotland
-- Each walk and description has been taken from either ![walkinghighlands](https://www.walkhighlands.co.uk/) or ![All Trails](https://www.alltrails.com/en-gb/?ref=header) and each section contains links to these sites and the relevant walk
+- Each walk and description has been taken from either ![walkinghighlands](https://www.walkhighlands.co.uk/ "Link to walkinghighlands webpage") or ![All Trails](https://www.alltrails.com/en-gb/?ref=header "Link to All trails webpage") and each section contains links to these sites and the relevant walk
 - 'Back to top' links have been added after each section so that users do not need to scroll all the way back up in they wish to move on from the page.
 
 * Highlands - There are 4 walks for the Highlands
@@ -183,31 +183,38 @@ TO BE ADDED
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
+This project was developed using [Codeanywhere](https://app.codeanywhere.com/ "Link to Codeanywhere login"), which was then committed and pushed to GitHub using the Codeanywehere terminals.
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows:
-  - In the GitHub repository, navigate to the Settings tab
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+### Deploying on GitHub Pages
 
-The live link can be found here – TO BE ADDED
+To deploy this page to GitHub Pages from its Codeanywhere repository, the following steps were taken:
+
+1. Log into [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").
+2. Locate the [GitHub Repository](https://github.com/sarahgoodwin93/The-Hike-Site "Link to The Hike Site Repo") for The Hike Site.
+3. At the top of the repository, select Settings from the menu items.
+4. On the side bar menu under 'Code and automation', click on "Pages"
+5. Change 'Branch' from "None" to "main", press 'Save'
+6. Once saved, wait a few minutes for page to deploy
+7. Navigate back to "Pages" and here you will find your deloyed link.
+
+The live link can be found here [The Hike Site](https://sarahgoodwin93.github.io/The-Hike-Site/ "Link to deployed The Hike Site")
 
 ## Technologies Used
 
-- ![HTML5](https://en.wikipedia.org/wiki/HTML5)
-- ![CSS3](https://en.wikipedia.org/wiki/CSS)
+- ![HTML5](https://en.wikipedia.org/wiki/HTML5 "Link to HTML5 wikipedia")
+- ![CSS3](https://en.wikipedia.org/wiki/CSS "Link to CSS3 wikipedia")
 
-* [Google Fonts](https://fonts.google.com/)
+* [Google Fonts](https://fonts.google.com/ "Link to Google Fonts webpage")
   Uused to import the font "Barlow" which was used throughout the platform
-* [Codeanywhere](https://app.codeanywhere.com/)
+* [Codeanywhere](https://app.codeanywhere.com/ "Link to Codeanywhere webpage")
   GitPod was used for writing code, adding, commiting and pushing to girhub
-* [GitHub](https://github.com/)
+* [GitHub](https://github.com/ "Link to GitHub webpage")
   GitHub was used to store the code files, README files and asset files after pushing
-* [Balsamiq](https://balsamiq.com/)
+* [Balsamiq](https://balsamiq.com/ "Link to Balsamiq webpage")
   Balsamiq was used to create the wireframes before the project was started to get ideas down and map our the basic structure of the site
-* [Canva](https://www.canva.com/en_gb/login/)
+* [Canva](https://www.canva.com/en_gb/login/ "Link to Canva webpage")
   Canva Pro was used to create images for the site
-* [Am I Responsive?](https://ui.dev/amiresponsive)
+* [Am I Responsive?](https://ui.dev/amiresponsive "Link to Am I responsive webpage")
   Am I Responsive was used in order to see responsive design and create screenshots of the final page on different devices.
 
 ## Credits
@@ -232,14 +239,6 @@ The following sites assisted in learning more about the code that was being used
 
 * [W3Schools](https://www.w3schools.com/ "Link to W3Schools webpage")
 
-### Content
+* [Love Running](https://sarahgoodwin93.github.io/Love-Running/ "link to Love Running page")
 
-- To be added
-- To be added
-- The icons in the … were taken from [Font Awesome](https://fontawesome.com/)
-
-### Media
-
-- The photos used on the home and sign up page are from Sarah Goodwin’s personal phone photos
-- The images used for the suggested walks page were taken from Sarah Goodwin’s personal phone photos
-- The images for the logo and homepage were created by Sarah Goodwin using Canva Pro
+* HTML & CSS Code Insititue Modules and notes taken
