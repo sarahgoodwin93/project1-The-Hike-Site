@@ -264,13 +264,13 @@ header a {
 }
 
 .walk-headings {
-    font-weight: 200%;
+    font-weight: 700;
     font-size: x-large;
     text-decoration: underline;
 }
 
 .back-to-top-button a {
-    font-weight: 200%;
+    font-weight: 700;
     font-size: small;
     text-decoration: dotted;
     color: #eeb18f;

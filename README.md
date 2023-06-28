@@ -1,4 +1,4 @@
-# ![The Hike Site](https://sarahgoodwin93.github.io/The-Hike-Site/ "Link to The Hike Site Webpage")
+# [The Hike Site](https://sarahgoodwin93.github.io/The-Hike-Site/ "Link to The Hike Site Webpage")
 
 The Hike Site is by hikers for hikers. A place people can come to in order to get information for their hiking trip to Scotland. Could be a day hike or a multi-day wild camping trip, The Hike Site has helpful tips and tricks to make your adventure the best it can be.
 
@@ -61,7 +61,7 @@ Wireframes were made at the beginning to flesh out the ideas and user experience
 
 ### Typography
 
-The font ![Barlow](https://fonts.google.com/?query=Barlow "Link to Barlow on Google Fonts webpage") has been used throughout the site, utilizing different weights and sizes to distigusted headings and text.
+The font [Barlow](https://fonts.google.com/?query=Barlow "Link to Barlow on Google Fonts webpage") has been used throughout the site, utilizing different weights and sizes to distigusted headings and text.
 
 Sans-Serif has been applied as a back-up in case of import failure.
 
@@ -110,7 +110,7 @@ The homepage will adjust to fit the size of your screen, with elements and secti
 
 - This 'Suggested Walks' page will provide links to various walks around Scotland with a little insight into each one.
 - This section will be updated as new walks are suggested in different areas around Scotland
-- Each walk and description has been taken from either ![walkinghighlands](https://www.walkhighlands.co.uk/ "Link to walkinghighlands webpage") or ![All Trails](https://www.alltrails.com/en-gb/?ref=header "Link to All trails webpage") and each section contains links to these sites and the relevant walk
+- Each walk and description has been taken from either [walkinghighlands](https://www.walkhighlands.co.uk/ "Link to walkinghighlands webpage") or [All Trails](https://www.alltrails.com/en-gb/?ref=header "Link to All trails webpage") and each section contains links to these sites and the relevant walk
 - 'Back to top' links have been added after each section so that users do not need to scroll all the way back up in they wish to move on from the page.
 
 * Highlands - There are 4 walks for the Highlands
