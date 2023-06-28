@@ -63,6 +63,33 @@ ul {
     background: url('../images/suggested-walks-hero-tiny.png') no-repeat center center;
 }
 
+/* About Section */
+
+#about {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.about-section {
+    display: flex;
+    justify-content: center;
+    font-size: medium;
+    text-align: center;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+#about-image {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
 /*  Suggested walks boxes homepage */
 
 #suggested-walk-heading {
@@ -79,7 +106,7 @@ ul {
 #suggested-walks-home {
     display: flex;
     justify-content: center;
-    padding-top: 20px;
+    padding-top: 10px;
     flex-wrap: wrap;
 }
 
@@ -152,32 +179,6 @@ ul {
     justify-content: center;
     align-items: center;
     padding: 10px 10px 10px 10px;
-}
-
-/* About Section */
-
-#about {
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    text-transform: uppercase;
-    padding-top: 20px;
-}
-
-.about-section {
-    display: flex;
-    justify-content: center;
-    font-size: medium;
-    text-align: center;
-    margin-left: 60px;
-    margin-right: 60px;
-}
-
-#about-image {
-    display: flex;
-    justify-content: center;
-    padding-bottom: 20px;
-    padding-top: 20px;
 }
 
 /* What to Pack Homepage */
@@ -284,6 +285,11 @@ ul {
 .walking-button a {
     color: #984416;
     text-decoration: none;
+}
+
+.walking-button:hover {
+    background-color: white;
+    color: #984416;
 }
 
 #walk-about-section h3 {
