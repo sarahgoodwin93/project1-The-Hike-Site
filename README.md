@@ -206,8 +206,8 @@ The live link can be found here [The Hike Site](https://sarahgoodwin93.github.io
 
 ## Technologies Used
 
-- ![HTML5](https://en.wikipedia.org/wiki/HTML5 "Link to HTML5 wikipedia")
-- ![CSS3](https://en.wikipedia.org/wiki/CSS "Link to CSS3 wikipedia")
+- [HTML5](https://en.wikipedia.org/wiki/HTML5 "Link to HTML5 wikipedia")
+- [CSS3](https://en.wikipedia.org/wiki/CSS "Link to CSS3 wikipedia")
 
 * [Google Fonts](https://fonts.google.com/ "Link to Google Fonts webpage")
   Uused to import the font "Barlow" which was used throughout the platform
@@ -246,6 +246,6 @@ The following sites assisted in learning more about the code that was being used
 
 * [Love Running](https://sarahgoodwin93.github.io/Love-Running/ "link to Love Running page")
 
-* HTML & CSS Code Insititue Modules and notes taken
+* HTML & CSS Code Insititue Modules for HTML & CSS and notes taken
 
 * Mentor, Lauren-Nicole, for all her help as support, the useful resources she provided and for being a friendly face throughout!
