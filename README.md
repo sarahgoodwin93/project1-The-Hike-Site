@@ -210,7 +210,7 @@ The Hike Site was tested on the following devices:
 
 - Samsung 22 Ultra (Android)
 - iPhone SE (Apple)
--
+- iPhone 12 Mini (Apple)
 -
 
 #### Browsers
