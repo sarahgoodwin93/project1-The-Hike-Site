@@ -204,7 +204,7 @@ The Hike Site was tested on the following devices:
 
 #### Desktop
 
--
+- iMac
 
 #### Mobile
 
@@ -231,12 +231,15 @@ The Hike Site was tested on the following devices:
 
 ### Testing Comments
 
-| **TEST**            | **ACTION**                                    | **EXPECTATION**                                              | **RESULT**        |
-| ------------------- | --------------------------------------------- | ------------------------------------------------------------ | ----------------- |
-| Home page           | Size to 320px using Chrome Dev Tools          | Elements look good @ 320px                                   | Works as expected |
-| Home page           | Size to 1920px using Chrome Dev Tools         | Elements look good 1920px                                    | Works as expected |
-| Contact form        | Click send button without data in form fields | Cannot submit form                                           | Works as expected |
-| Nav bar - home page | Click nav buttons                             | That each nav element takes me to the correct page site page | Works as expected |
+```
+**TEST** | **ACTION** | **EXPECTATION** | **RESULT**
+----------|----------|----------|----------
+Home page	| Size to 320px using Chrome Dev Tools	| Elements look good @ 320px | Works as expected
+Home page	| Size to 1920px using Chrome Dev Tools | Elements look good 1920px | Works as expected
+Contact form | Click send button without data in form fields | Cannot submit form | Works as expected
+Nav bar - home page | Click nav buttons | That each nav element takes me to the correct page site page | Works as expected
+
+```
 
 ### Unfixed Bugs
 
