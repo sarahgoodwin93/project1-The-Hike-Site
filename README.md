@@ -79,11 +79,13 @@ The navigation options include:
 
 The navigation bar stays in the same place for each page, which allows people to navigate throughout the site without having to use a ‘back’ button, and allows them to access all areas of the site at any time.
 
-![Nav Bar] SCRENSHOT
+![Navigation Image](assets/readme-img/navigation.png "Screenshot of navigation bar")
 
 ### Hero Image
 
 As the first thing users the hero image needs to capture their attention and make them want to stay on the site. It also shows that they have arrived at the correct place as it clearly shows both mountains and lochs which Scotland hikes are famous for.
+
+![Hero Image](assets/readme-img/hero-readme.png "Screenshot of hero image")
 
 ### Home
 
