@@ -276,7 +276,7 @@ ol {
     text-align: center;
 }
 
-.walking-button {
+.button {
     border-radius: 30px;
     background-color: #eeb18f;
     padding: 10px 10px 10px 10px;
@@ -287,12 +287,12 @@ ol {
     margin: auto;
 }
 
-.walking-button a {
+.button a {
     color: #984416;
     text-decoration: none;
 }
 
-.walking-button:hover {
+.button:hover {
     background-color: white;
     color: #984416;
 }
