@@ -1,4 +1,4 @@
-# [The Hike Site](https://sarahgoodwin93.github.io/The-Hike-Site/ "Link to The Hike Site Webpage"){:target="\_blank"}
+# [The Hike Site](https://sarahgoodwin93.github.io/The-Hike-Site/ "Link to The Hike Site Webpage"){:target="\blank"}
 
 ![Responsive Image](assets/readme-img/responsive-screenshot.png "am i responsive screenshot image")
 
