@@ -175,11 +175,11 @@ The form does not link to an external place as it is not for capturing data, it 
 
 ### The Footer
 
-The footer section includes links to the relevant social media sites for hiking around Scotland.
+The footer section includes links to the relevant social media sites, these are the main homepages for the relevant social media company as The Hike Site does not have their own (at this stage).
 
-The footer is valuable to the user as it encourages them to keep connected via social media
+The footer is valuable to the user as it encourages them to keep connected via social media.
 
-![Footer]SCREENSHOT
+![Footer screenshot](assets/readme-img/footer-screenshot.png "Screenshot of Footer")
 
 ### Features Left to Implement
 
@@ -193,7 +193,31 @@ The footer is valuable to the user as it encourages them to keep connected via s
 
 ### Manual Testing
 
-- Videos of each page being tested
+Manual testing was carried out on every page and with every link.
+
+The Hike Site was tested on the following devices:
+
+#### Laptops
+
+- Macbook Air
+-
+
+#### Desktop
+
+-
+
+#### Mobile
+
+- Samsung 22 Ultra (Android)
+- iPhone SE (Apple)
+-
+-
+
+#### Browsers
+
+- Google Chrome
+- Safari
+- Firefox
 
 ### Validator Testing
 
