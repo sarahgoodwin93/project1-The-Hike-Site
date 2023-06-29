@@ -1,6 +1,6 @@
 # [The Hike Site](https://sarahgoodwin93.github.io/The-Hike-Site/ "Link to The Hike Site Webpage")
 
-![Responsive Image](assets/readme-img/responsive-screenshot "am i responsive screenshot image")
+![Responsive Image](assets/readme-img/responsive-screenshot.png "am i responsive screenshot image")
 
 The Hike Site is by hikers for hikers. A place people can come to in order to get information for their hiking trip to Scotland. Could be a day hike or a multi-day wild camping trip, The Hike Site has helpful tips and tricks to make your adventure the best it can be.
 
@@ -53,7 +53,7 @@ Using [ColorHexa](https://www.colorhexa.com/984416 "Link to ColorHexa webpage") 
 This is complimented by a lighter tints of {#eeb18f} and {#c4581d}
 These colours were chosen as they represent the sunrises and sunsets often seen in Scotland during a hike, this can be seen in the hero image as well where the sunset compliments the colours.
 
-![Colour Palette](assets/readme-img/colour-pallete.png "color palette image")
+![Colour Palette](assets/readme-img/colour-palette.png "color palette image")
 
 ### Wire frames
 
