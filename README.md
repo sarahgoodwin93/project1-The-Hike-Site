@@ -49,8 +49,8 @@ The target audience for this website is
 
 ### Colour Scheme
 
-Using [ColorHexa](https://www.colorhexa.com/c4581d/ "Link to ColorHexa webpage") the colour scheme is based on the colour {#c4581d}
-This is complimented by a lighter tint of - {#eeb18f}
+Using [ColorHexa](https://www.colorhexa.com/984416 "Link to ColorHexa webpage") the colour scheme is based on the colour {#984416}
+This is complimented by a lighter tints of {#eeb18f} and {#c4581d}
 These colours were chosen as they represent the sunrises and sunsets often seen in Scotland during a hike, this can be seen in the hero image as well where the sunset compliments the colours.
 
 ![Colour Palette](assets/readme-img/colour-pallete.png "color palette image")
@@ -69,10 +69,6 @@ Sans-Serif has been applied as a back-up in case of import failure.
 
 ## Features
 
-### Hero Image
-
-
-
 ### Navigation
 
 Each page has a navigation menu allowing the user to link back to the page they require information from.
@@ -86,6 +82,10 @@ The navigation options include:
 The navigation bar stays in the same place for each page, which allows people to navigate throughout the site without having to use a ‘back’ button, and allows them to access all areas of the site at any time.
 
 ![Nav Bar] SCRENSHOT
+
+### Hero Image
+
+As the first thing users the hero image needs to capture their attention and make them want to stay on the site. It also shows that they have arrived at the correct place as it clearly shows both mountains and lochs which Scotland hikes are famous for.
 
 ### Home
 
@@ -111,6 +111,12 @@ The homepage will adjust to fit the size of your screen, with elements and secti
 - This page will also give links with gear suggestions should users wish to purchase new gear for their trip, there will be a top 5 every month to keep content fresh and exciting for returning users.
 
 ![What to pack]SCREENSHOT
+
+### Packing Checklists
+
+Two checklists have been used for the two walk types, wild camping trips and day trips. Users can check that they have everything needed for their trip type in an easy to use checkbox style form, with the ability to reset at the end.
+
+The form does not link to an external place as it is not for capturing data, it is a tool for users.
 
 ### Suggested Walks Page
 
@@ -155,6 +161,10 @@ The homepage will adjust to fit the size of your screen, with elements and secti
 - They will provide their first name, last name, email, which area they prefer and a week range they would like to walk in.
 
 ![Sign Up] SCREENSHOT
+
+### Thank You Page
+
+Info about thank you page
 
 ### The Footer
 
