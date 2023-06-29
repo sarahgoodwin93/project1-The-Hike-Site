@@ -55,6 +55,11 @@ ul {
     padding-inline-start: inherit;
 }
 
+ol {
+    list-style-type: none;
+    padding: inherit;
+}
+
 /* Hero Image */
 
 #hero-image {
@@ -355,6 +360,13 @@ input[type='checkbox'] {
 }
 
 .pack-body-section {
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.packing-checklist {
     margin-left: 20px;
     margin-top: 10px;
     margin-right: 20px;
