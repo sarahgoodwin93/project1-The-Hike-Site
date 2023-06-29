@@ -271,7 +271,7 @@ ol {
     background: url('../images/suggested-walks-hero-tiny.png') no-repeat center center;
 }
 
-#walk-about-section {
+.walk-about-section {
     margin-left: 20px;
     margin-top: 10px;
     margin-right: 20px;
