@@ -238,7 +238,7 @@ ol {
 .packing {
     width: 100%;
     display: flex;
-    padding: 40px 50px;
+    padding: 0px 50px;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
