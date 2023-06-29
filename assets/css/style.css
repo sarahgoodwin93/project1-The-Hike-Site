@@ -342,9 +342,14 @@ ul {
     color: #984416;
 }
 
+label {
+    display: block;
+}
+
 input[type='checkbox'] {
     accent-color: #984416;
     float: left;
+    margin-right: 5px;
 }
 
 .pack-body-section {
