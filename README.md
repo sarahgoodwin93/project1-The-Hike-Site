@@ -1,5 +1,7 @@
 # [The Hike Site](https://sarahgoodwin93.github.io/The-Hike-Site/ "Link to The Hike Site Webpage")
 
+![Responsive Image](assets/readme-img/responsive-screenshot "am i responsive screenshot image")
+
 The Hike Site is by hikers for hikers. A place people can come to in order to get information for their hiking trip to Scotland. Could be a day hike or a multi-day wild camping trip, The Hike Site has helpful tips and tricks to make your adventure the best it can be.
 
 The site will target people who are wanting to come to Scotland for a hiking trip and give information about different suggested walks, gear they could take, a checklist and a chance to sign up to a group walk.
@@ -66,6 +68,10 @@ The font [Barlow](https://fonts.google.com/?query=Barlow "Link to Barlow on Goog
 Sans-Serif has been applied as a back-up in case of import failure.
 
 ## Features
+
+### Hero Image
+
+
 
 ### Navigation
 
