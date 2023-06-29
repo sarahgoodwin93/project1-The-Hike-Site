@@ -98,7 +98,7 @@ ol {
 
 /*  Suggested walks boxes homepage */
 
-#suggested-walk-heading {
+.suggested-walk-heading {
     display: flex;
     justify-content: center;
     flex-direction: row;
@@ -110,7 +110,7 @@ ol {
 
 }
 
-#suggested-walks-home {
+.suggested-walks-home {
     display: flex;
     justify-content: center;
     padding-top: 10px;
