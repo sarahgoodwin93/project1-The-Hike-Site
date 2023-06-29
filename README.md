@@ -98,7 +98,7 @@ The homepage contains the 'About section', as well as links to the other pages o
 
 The Suggests Walks buttons allows users to click directly into the area they want to see, rather than having to navigate through the whole page via scrolling.
 
-The two 'What to Pack' buttons allow users to go directly to their releveant walk length to be able to access the checklist straight away.
+The two 'What to Pack' buttons allow users to go directly to their releveant walk length to be able to access the checklist straight away and see the suggested gear for that month.
 
 The homepage will adjust to fit the size of your screen, with elements and sections moving from taking up the full width, to moving on-top of each other for smaller screen sizes.
 
@@ -109,6 +109,7 @@ The homepage will adjust to fit the size of your screen, with elements and secti
 - The ‘What to Pack’ page allows users to create a checklist of their gear for both wild camping multi-day trips and day trips for around Scotland.
 - Users can continue to return to the site to fill out the checklist for each trip they go on, adding value for returning users
 - This page will also give links with gear suggestions should users wish to purchase new gear for their trip, there will be a top 5 every month to keep content fresh and exciting for returning users.
+- 'Back to top' links have been added after each section so that users do not need to scroll all the way back up in they wish to move on from the page.
 
 ![What to Pack Page Image](assets/readme-img/what-to-pack-page.png "Screenshot of What to Pack Page")
 
@@ -118,12 +119,16 @@ Two checklists have been used for the two walk types, wild camping trips and day
 
 The form does not link to an external place as it is not for capturing data, it is a tool for users.
 
+![Checklist screenshot](assets/readme-img/checklist-screenshots.png "Screenshot of checklist")
+
 ### Suggested Walks Page
 
 - This 'Suggested Walks' page will provide links to various walks around Scotland with a little insight into each one.
 - This section will be updated as new walks are suggested in different areas around Scotland
 - Each walk and description has been taken from either [walkinghighlands](https://www.walkhighlands.co.uk/ "Link to walkinghighlands webpage") or [All Trails](https://www.alltrails.com/en-gb/?ref=header "Link to All trails webpage") and each section contains links to these sites and the relevant walk
 - 'Back to top' links have been added after each section so that users do not need to scroll all the way back up in they wish to move on from the page.
+
+![Suggested Walks screenshot](assets/readme-img/walks-screenshot.png "Screenshot of Suggested Walks Page")
 
 #### Highlands - There are 4 walks for the Highlands
 
@@ -153,18 +158,20 @@ The form does not link to an external place as it is not for capturing data, it 
 - NETHY BRIDGE RIVERSIDE AND DELL WOODS
 - ROTHIEMURCHUS FOREST CIRCULAR
 
-![Suggested Walks] SCREENSHOT
-
 ### The Sign Up Page
 
 - This page will allow the user to get signed up to group walks that will take place in Scotland.
 - They will provide their first name, last name, email, which area they prefer and a week range they would like to walk in.
+- All questions are required and the submit button will direct you to the thank you page.
 
-![Sign Up] SCREENSHOT
+![Sign Up page screenshot](assets/readme-img/signup-screenshot.png "Screenshot of Sign Up Page")
 
 ### Thank You Page
 
-Info about thank you page
+- After hitting the submit button on the sign up form users will be taken to the thank you page so that they know they have completed the form correctly.
+- The page will automatically redirect after 5 seconds. This time was chosen as there are only 2 sentences to read on the sign up page and any longer felt like nothing was going to happen.
+
+![Thank you page screenshot](assets/readme-img/thankyou-screenshot.png "Screenshot of Thank you Page")
 
 ### The Footer
 
