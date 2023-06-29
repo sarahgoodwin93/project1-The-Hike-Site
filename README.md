@@ -102,7 +102,7 @@ The two 'What to Pack' buttons allow users to go directly to their releveant wal
 
 The homepage will adjust to fit the size of your screen, with elements and sections moving from taking up the full width, to moving on-top of each other for smaller screen sizes.
 
-![Home Page]SCREENSHOT
+![Homepage Image](assets/readme-img/homepage-mobile-laptop.png "Screenshot of homepage on mobile laptop and mobile screens")
 
 ### What to Pack Page
 
@@ -110,7 +110,7 @@ The homepage will adjust to fit the size of your screen, with elements and secti
 - Users can continue to return to the site to fill out the checklist for each trip they go on, adding value for returning users
 - This page will also give links with gear suggestions should users wish to purchase new gear for their trip, there will be a top 5 every month to keep content fresh and exciting for returning users.
 
-![What to pack]SCREENSHOT
+![What to Pack Page Image](assets/readme-img/what-to-pack-page.png "Screenshot of What to Pack Page")
 
 ### Packing Checklists
 
