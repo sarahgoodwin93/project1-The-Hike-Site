@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@200;400&display=swap');
 
 * {
     margin: 0;
@@ -370,6 +370,27 @@ input[type='checkbox'] {
     margin-left: 20px;
     margin-top: 10px;
     margin-right: 20px;
+}
+
+.top-5-button {
+    border-radius: 30px;
+    background-color: #eeb18f;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    margin: auto;
+}
+
+.top-5-button a {
+    color: #984416;
+    text-decoration: none;
+}
+
+.top-5-button:hover {
+    background-color: white;
+    border: solid #984416;
 }
 
 /* form */
