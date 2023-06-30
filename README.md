@@ -255,6 +255,13 @@ The Hike Site was tested on the following devices:
 ![HTML Validator Thank you Page](assets/readme-img/w3-thankyou.png "w3 validator Thank you Page image")
 
 </details>
+<details>
+<summary>Errors that were found and fixed</summary>
+- Stray end tags
+- The Value of the [for] attribute of the [label] element must be the ID of a non-hidden form control.
+- 
+</details>
+
 </details>
 
 <details>
@@ -281,21 +288,21 @@ The Hike Site was tested on the following devices:
 
 ### Nav Bar Testing Comments
 
-| **TEST**           | **ACTION**               | **EXPECTATION**               | **RESULT**        | **FIX** |
-| ------------------ | ------------------------ | ----------------------------- | ----------------- | ------- |
-| Nav Bar - home | Click nav buttons | That each nav element takes me to the correct page on site | Works as expected | N/A |
-| Nav Bar - walks | Click nav buttons | That each nav element takes me to the correct page on site | Works as expected | N/A |
-| Nav Bar - pack | Click nav buttons | That each nav element takes me to the correct page on site | Works as expected | N/A |
-| Nav Bar - sign up | Click nav buttons | That each nav element takes me to the correct page on site | Works as expected | N/A |
+| **TEST**          | **ACTION**        | **EXPECTATION**                                            | **RESULT**        | **FIX** |
+| ----------------- | ----------------- | ---------------------------------------------------------- | ----------------- | ------- |
+| Nav Bar - home    | Click nav buttons | That each nav element takes me to the correct page on site | Works as expected | N/A     |
+| Nav Bar - walks   | Click nav buttons | That each nav element takes me to the correct page on site | Works as expected | N/A     |
+| Nav Bar - pack    | Click nav buttons | That each nav element takes me to the correct page on site | Works as expected | N/A     |
+| Nav Bar - sign up | Click nav buttons | That each nav element takes me to the correct page on site | Works as expected | N/A     |
 
 ### Other Testing Comments
 
-| **TEST**           | **ACTION**               | **EXPECTATION**               | **RESULT**        | **FIX** |
-| ------------------ | ------------------------ | ----------------------------- | ----------------- | ------- |
-| Contact form | Click submit without completing form | Cannot submit for | Works as expected | N/A |
-| Checklists | Click reset | Checkbox ticks are removed  | Works as expected | N/A |
-| Thank you page | Complete sign up form | Be taken to homepage after 5 seconds | Works as expected | N/A |
-| Footer | Click on each social media button | That each element takes you to the relevant social media homepage | Works as expected | N/A |
+| **TEST**       | **ACTION**                           | **EXPECTATION**                                                   | **RESULT**        | **FIX** |
+| -------------- | ------------------------------------ | ----------------------------------------------------------------- | ----------------- | ------- |
+| Contact form   | Click submit without completing form | Cannot submit for                                                 | Works as expected | N/A     |
+| Checklists     | Click reset                          | Checkbox ticks are removed                                        | Works as expected | N/A     |
+| Thank you page | Complete sign up form                | Be taken to homepage after 5 seconds                              | Works as expected | N/A     |
+| Footer         | Click on each social media button    | That each element takes you to the relevant social media homepage | Works as expected | N/A     |
 
 ### Unfixed Bugs
 
