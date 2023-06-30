@@ -289,12 +289,17 @@ This project was developed using [Codeanywhere](https://app.codeanywhere.com/ "L
 To deploy this page to GitHub Pages from its Codeanywhere repository, the following steps were taken:
 
 1. Log into [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").
-2. Locate the [GitHub Repository](https://github.com/sarahgoodwin93/The-Hike-Site "Link to The Hike Site Repo") for The Hike Site.
-3. At the top of the repository, select Settings from the menu items.
-4. On the side bar menu under 'Code and automation', click on "Pages"
-5. Change 'Branch' from "None" to "main", press 'Save'
-6. Once saved, wait a few minutes for page to deploy
-7. Navigate back to "Pages" and here you will find your deloyed link.
+2. Create repository from [ci template]("https://github.com/Code-Institute-Org/ci-full-template "ci template webpage") on github
+3. Copy the repo url and copy into [Codeanywhere](https://app.codeanywhere.com/ "Link to Codeanywhere webpage") to create a new workspace
+4. Close README tab and create first file named index.html
+5. Press ! TAB to create <!DOCTYPE html>
+6. Open terminal, type (git add .) (git commit -m "initial commit") (git push)
+7. Locate the [GitHub Repository](https://github.com/sarahgoodwin93/The-Hike-Site "Link to The Hike Site Repo") for The Hike Site.
+8. At the top of the repository, select Settings from the menu items.
+9. On the side bar menu under 'Code and automation', click on "Pages"
+10. Change 'Branch' from "None" to "main", press 'Save'
+11. Once saved, wait a few minutes for page to deploy
+12. Navigate back to "Pages" and here you will find your deloyed link.
 
 The live link can be found here [The Hike Site](https://sarahgoodwin93.github.io/The-Hike-Site/ "Link to deployed The Hike Site")
 
