@@ -1,6 +1,6 @@
 # [The Hike Site](https://sarahgoodwin93.github.io/The-Hike-Site/ "Link to The Hike Site Webpage")
 
-![Responsive Image](assets/readme-img/responsive-screenshot.png "am i responsive screenshot image")
+![Responsive Image](assets/readme-img/responsive-screenshot.png "am I responsive screenshot image")
 
 The Hike Site is by hikers for hikers. A place people can come to in order to get information for their hiking trip to Scotland. Could be a day hike or a multi-day wild camping trip, The Hike Site has helpful tips and tricks to make your adventure the best it can be.
 
@@ -27,21 +27,21 @@ The target audience for this website is
 
 #### UK Hikers
 
-1. As a UK hiker, I want to be able to navigate the site with ease, even if I am new to scotland hikes
+1. As a UK hiker, I want to be able to navigate the site with ease, even if I am new to Scotland hikes
 2. As a UK hiker, I want to be able to see suggested walks so I can plan my trip to Scotland
-3. As a UK hiker, I want to be given some information about Scotlands different areas
+3. As a UK hiker, I want to be given some information about Scotland's different areas
 
 #### Return Users
 
 1. As a return user, I want to be able to navigate to the checklist quickly and easily
 2. As a return users, I expect to see new updates for walks and gear to keep me wanitng to come back
-3. As a return user, I want the information I need to be easily accessabile
+3. As a return user, I want the information I need to be easily accessible
 
 #### Community seekers
 
-1. As a community seeker, I want to be able to register my intestest in group walks
-2. As a community seeker, I want to be able to navigate through the site efficently
-3. As a community seeker, I want to have access to new informaiton regarding walks so I can meet with others to walk together
+1. As a community seeker, I want to be able to register my interest in group walks
+2. As a community seeker, I want to be able to navigate through the site efficiently
+3. As a community seeker, I want to have access to new information regarding walks so I can meet with others to walk together
 
 ## Design
 
@@ -61,7 +61,7 @@ Wireframes were made at the beginning to flesh out the ideas and user experience
 
 ### Typography
 
-The font [Barlow](https://fonts.google.com/?query=Barlow "Link to Barlow on Google Fonts webpage") has been used throughout the site, utilizing different weights and sizes to distigusted headings and text.
+The font [Barlow](https://fonts.google.com/?query=Barlow "Link to Barlow on Google Fonts webpage") has been used throughout the site, utilizing different weights and sizes to distinguish headings and text.
 
 Sans-Serif has been applied as a back-up in case of import failure.
 
@@ -89,7 +89,7 @@ As the first thing users the hero image needs to capture their attention and mak
 
 ### Home
 
-- The landing includes a photograph that draws users attention to what the site is about and its purpose.
+- The landing includes a photograph that draws users' attention to what the site is about and its purpose.
 - The homepage gives links to different areas in Scotland for suggested walks to provide quick access to a specific region.
 - This section introduces the user to a brief ‘about section’ so that they know if the site will suit their needs or not
 - This page also provides links to the What to Pack page to give users additional access
@@ -98,7 +98,7 @@ The homepage contains the 'About section', as well as links to the other pages o
 
 The Suggests Walks buttons allows users to click directly into the area they want to see, rather than having to navigate through the whole page via scrolling.
 
-The two 'What to Pack' buttons allow users to go directly to their releveant walk length to be able to access the checklist straight away and see the suggested gear for that month.
+The two 'What to Pack' buttons allow users to go directly to their relevant walk length to be able to access the checklist straight away and see the suggested gear for that month.
 
 The homepage will adjust to fit the size of your screen, with elements and sections moving from taking up the full width, to moving on-top of each other for smaller screen sizes.
 
@@ -115,9 +115,10 @@ The homepage will adjust to fit the size of your screen, with elements and secti
 
 ### Packing Checklists
 
-Two checklists have been used for the two walk types, wild camping trips and day trips. Users can check that they have everything needed for their trip type in an easy to use checkbox style form, with the ability to reset at the end.
+Two checklists have been used for the two walk types, wild camping trips and day trips.
+Users can check that they have everything needed for their trip type in an easy to use checkbox style form, with the ability to reset at the end.
 
-The form does not link to an external place as it is not for capturing data, it is a tool for users.
+The form does not link to an external place as it is not for capturing data, it is a tool for users only.
 
 ![Checklist screenshot](assets/readme-img/checklist-screenshots.png "Screenshot of checklist")
 
@@ -144,7 +145,7 @@ The form does not link to an external place as it is not for capturing data, it 
 - LOCH KATRINE
 - LOCH LOMOND, INVERBEG AND GARELOCHHEAD
 
-#### Borders - There are 4 walks for the Borderes
+#### Borders - There are 4 walks for the Borders
 
 - RIVER TWEED CIRCUIT, MELROSE
 - SAINT ABBS HEAD
@@ -185,7 +186,7 @@ The footer is valuable to the user as it encourages them to keep connected via s
 
 - Users ability to suggest walks – A form where users can comment in a walk they have recently been on with recommendations about the walk (parking, gear, direction etc)
 
-- Users ability to upload photos of their walks in the suggested walks section so that other users can see what it looks like from anothers users perspective
+- Users ability to upload photos of their walks in the suggested walks section so that other users can see what it looks like from another user perspective
 
 - Weather section so that users travelling to Scotland can see what the weather may be like in certain areas before making the trip up
 
@@ -200,7 +201,6 @@ The Hike Site was tested on the following devices:
 #### Laptops
 
 - Macbook Air
--
 
 #### Desktop
 
@@ -211,7 +211,6 @@ The Hike Site was tested on the following devices:
 - Samsung 22 Ultra (Android)
 - iPhone SE (Apple)
 - iPhone 12 Mini (Apple)
--
 
 #### Browsers
 
@@ -232,7 +231,7 @@ The Hike Site was tested on the following devices:
 <details>
 <summary>Suggested Walks Page</summary>
 
-![HTML Validator Suggested Walks Page](assets/readme-img/w3-walks.png "w3 validator uggested Walks Page image")
+![HTML Validator Suggested Walks Page](assets/readme-img/w3-walks.png "w3 validator suggested Walks Page image")
 
 </details>
 <details>
@@ -255,14 +254,13 @@ The Hike Site was tested on the following devices:
 ![HTML Validator Thank you Page](assets/readme-img/w3-thankyou.png "w3 validator Thank you Page image")
 
 </details>
-<details>
-<summary>Errors that were found and fixed</summary>
-- Stray end tags
-- The Value of the [for] attribute of the [label] element must be the ID of a non-hidden form control.
-- 
 </details>
 
-</details>
+#### Errors that were found and fixed
+
+- Stray end tags
+- The Value of the [for] attribute of the [label] element must be the ID of a non-hidden form control.
+-
 
 <details>
 <summary>CSS - Please see screenshot of CSS Jigsaw validator</summary>
@@ -327,7 +325,7 @@ To deploy this page to GitHub Pages from its Codeanywhere repository, the follow
 9. On the side bar menu under 'Code and automation', click on "Pages"
 10. Change 'Branch' from "None" to "main", press 'Save'
 11. Once saved, wait a few minutes for page to deploy
-12. Navigate back to "Pages" and here you will find your deloyed link.
+12. Navigate back to "Pages" and here you will find your deployed link.
 
 The live link can be found here [The Hike Site](https://sarahgoodwin93.github.io/The-Hike-Site/ "Link to deployed The Hike Site")
 
