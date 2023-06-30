@@ -266,21 +266,18 @@ The Hike Site was tested on the following devices:
 
 ### Mobile and iPad Testing Comments
 
-```
-**TEST** | **ACTION** | **EXPECTATION** | **RESULT** | **FIX** |
-----------|----------|----------|----------|----------
-Home page (mobile)	| Samsung 22 Ultra Android	| Elements look good on android | Works as expected | N/A
-Suggested Walks page (mobile)	| Samsung 22 Ultra Android	| Elements look good on android | Works as expected | N/A
-What to Pack page (mobile)	| Samsung 22 Ultra Android	| Elements look good on android | Checkboxes are positioned incorrectly | To be fixed
-Sign Up page (mobile)	| Samsung 22 Ultra Android	| Elements look good on android | Works as expected | N/A
-Thank You page (mobile)	| Samsung 22 Ultra Android	| Elements look good on android | Works as expected | N/A
-Home page (iPad)	| Size to 1024px using Chrome Dev Tools	| Elements look good on android | Works as expected | N/A
-Suggested Walks page (iPad)	| Size to 1024px using Chrome Dev Tools	| Elements look good on android | Works as expected | N/A
-What to Pack page (iPad)	| Size to 1024px using Chrome Dev Tools	| Elements look good on android | Works as expected | N/A
-Sign Up page (iPad)	| Size to 1024px using Chrome Dev Tools	| Elements look good on android | Works as expected | N/A
-Thank You page (iPad)	| Size to 1024px using Chrome Dev Tools	| Elements look good on android | Works as expected | N/A
-
-```
+| **TEST**                      | **ACTION**                            | **EXPECTATION**               | **RESULT**                            | **FIX**     |
+| ----------------------------- | ------------------------------------- | ----------------------------- | ------------------------------------- | ----------- |
+| Home page (mobile)            | Samsung 22 Ultra Android              | Elements look good on android | Works as expected                     | N/A         |
+| Suggested Walks page (mobile) | Samsung 22 Ultra Android              | Elements look good on android | Works as expected                     | N/A         |
+| What to Pack page (mobile)    | Samsung 22 Ultra Android              | Elements look good on android | Checkboxes are positioned incorrectly | To be fixed |
+| Sign Up page (mobile)         | Samsung 22 Ultra Android              | Elements look good on android | Works as expected                     | N/A         |
+| Thank You page (mobile)       | Samsung 22 Ultra Android              | Elements look good on android | Works as expected                     | N/A         |
+| Home page (iPad)              | Size to 1024px using Chrome Dev Tools | Elements look good on android | Works as expected                     | N/A         |
+| Suggested Walks page (iPad)   | Size to 1024px using Chrome Dev Tools | Elements look good on android | Works as expected                     | N/A         |
+| What to Pack page (iPad)      | Size to 1024px using Chrome Dev Tools | Elements look good on android | Works as expected                     | N/A         |
+| Sign Up page (iPad)           | Size to 1024px using Chrome Dev Tools | Elements look good on android | Works as expected                     | N/A         |
+| Thank You page (iPad)         | Size to 1024px using Chrome Dev Tools | Elements look good on android | Works as expected                     | N/A         |
 
 ### Nav Bar Testing Comments
 
@@ -359,25 +356,25 @@ All images were created by Sarah Goodwin, using Canva Pro, stock images were use
 
 The following sites assisted in learning more about the code that was being used, or to gain a better understand of how to do things more efficiently
 
-* [Stack Overflow](https://stackoverflow.com/ "Link to Stack Overflow webpage")
-Stack overflow was used to answer questions as to why certain code may not be performing as expected
+- [Stack Overflow](https://stackoverflow.com/ "Link to Stack Overflow webpage")
+  Stack overflow was used to answer questions as to why certain code may not be performing as expected
 
-* [W3Schools](https://www.w3schools.com/ "Link to W3Schools webpage")
-W3Schools was used to gain a better understanding of css styles and how to apply them
+- [W3Schools](https://www.w3schools.com/ "Link to W3Schools webpage")
+  W3Schools was used to gain a better understanding of css styles and how to apply them
 
-* [Love Running](https://sarahgoodwin93.github.io/Love-Running/ "link to Love Running page")
-Love Running was used as part of the education process and was referred back to to gain ideas for The Hike Site set up
+- [Love Running](https://sarahgoodwin93.github.io/Love-Running/ "link to Love Running page")
+  Love Running was used as part of the education process and was referred back to to gain ideas for The Hike Site set up
 
-* [ChatGPT](https://openai.com/blog/chatgpt "link to chatgpt page")
-ChatGPT was used gain a better understanding of css styles and how to apply them
+- [ChatGPT](https://openai.com/blog/chatgpt "link to chatgpt page")
+  ChatGPT was used gain a better understanding of css styles and how to apply them
 
-* [CluelessBiker/mentoring](https://github.com/CluelessBiker/mentoring "link to CluesslessBiker repo")
-CluelessBiker mentoring github page was used to check examples of projects, access links to resources such as validators and w3schools, Am I Responsive. 
+- [CluelessBiker/mentoring](https://github.com/CluelessBiker/mentoring "link to CluesslessBiker repo")
+  CluelessBiker mentoring github page was used to check examples of projects, access links to resources such as validators and w3schools, Am I Responsive.
 
-* The ['Survival-guild'](https://github.com/Irishbecky91/survival-guild/blob/main/README.md?plain=1 "link to survival-guild readme page") exmaple project was referred to especially when creating the ReadMe.
-The code to create the drop downs in README was learnt from this page. 
+- The ['Survival-guild'](https://github.com/Irishbecky91/survival-guild/blob/main/README.md?plain=1 "link to survival-guild readme page") exmaple project was referred to especially when creating the ReadMe.
+  The code to create the drop downs in README was learnt from this page.
 
-* HTML & CSS Code Insititue Modules 
-The modules notes that Sarah Goodwin took for the HTML & CSS sections were referred back to to write code
+- HTML & CSS Code Insititue Modules
+  The modules notes that Sarah Goodwin took for the HTML & CSS sections were referred back to to write code
 
-* Mentor, Lauren-Nicole, for all her help as support, the useful resources she provided and for being a friendly face throughout!
+- Mentor, Lauren-Nicole, for all her help as support, the useful resources she provided and for being a friendly face throughout!
