@@ -8,6 +8,13 @@ The site will target people who are wanting to come to Scotland for a hiking tri
 
 The idea of the site comes from a need to combine walking suggestion sites, gear sites and house a checklist, all in the one place, to allow users to come to a one-stop-shop for their trip.
 
+### Key Project Goals
+
+- Provide easy navigation for users across all pages of the site
+- Provide useful information for hikers coming to Scotland regarding what gear they should bring on their trip
+- Provide links to suggested walks for hikers to plan their trip to Scotland
+- Provide a sign up form to build community so that hikers can get together to enjoy their walks
+
 ### Target Audience
 
 The target audience for this website is
