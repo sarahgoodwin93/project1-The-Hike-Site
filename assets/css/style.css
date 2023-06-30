@@ -10,6 +10,8 @@ body {
     font-family: Barlow, sans-serif;
     font-weight: 100;
     color: #984416;
+    max-width: 100vw;
+    overflow-x: hidden;
 }
 
 body h1 {
@@ -344,8 +346,6 @@ ol {
     justify-content: flex-start;
     flex-wrap: wrap;
 }
-
-.checkbox-style {}
 
 .reset {
     border-radius: 30px;
