@@ -130,20 +130,23 @@ ol {
 }
 
 .suggested-walks-highland {
-    background: url('../images/highlands-button.png');
+    background: url('../images/highlands-button-400.png');
     background-size: cover;
 }
 
 .suggested-walks-trossachs {
-    background: url('../images/trossachs-button.png');
+    background: url('../images/trossachs-button-400.png');
+    background-size: cover;
 }
 
 .suggested-walks-borders {
-    background: url('../images/borders-button.png');
+    background: url('../images/borders-button-400.png');
+    background-size: cover;
 }
 
 .suggested-walks-cairngorms {
-    background: url('../images/cairngorms-button.png');
+    background: url('../images/cairngorms-button-400.png');
+    background-size: cover;
 }
 
 .center-box {
