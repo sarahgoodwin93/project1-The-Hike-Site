@@ -283,18 +283,18 @@ Fixes have been commited
 
 ### Mobile and iPad Testing Comments
 
-| **TEST**                      | **ACTION**                            | **EXPECTATION**               | **RESULT**                            | **FIX**     |
-| ----------------------------- | ------------------------------------- | ----------------------------- | ------------------------------------- | ----------- |
-| Home page (mobile)            | Samsung 22 Ultra Android              | Elements look good on android | Works as expected                     | N/A         |
-| Suggested Walks page (mobile) | Samsung 22 Ultra Android              | Elements look good on android | Works as expected                     | N/A         |
-| What to Pack page (mobile)    | Samsung 22 Ultra Android              | Elements look good on android | Checkboxes are positioned incorrectly | To be fixed |
-| Sign Up page (mobile)         | Samsung 22 Ultra Android              | Elements look good on android | Works as expected                     | N/A         |
-| Thank You page (mobile)       | Samsung 22 Ultra Android              | Elements look good on android | Works as expected                     | N/A         |
-| Home page (iPad)              | Size to 1024px using Chrome Dev Tools | Elements look good on android | Works as expected                     | N/A         |
-| Suggested Walks page (iPad)   | Size to 1024px using Chrome Dev Tools | Elements look good on android | Works as expected                     | N/A         |
-| What to Pack page (iPad)      | Size to 1024px using Chrome Dev Tools | Elements look good on android | Works as expected                     | N/A         |
-| Sign Up page (iPad)           | Size to 1024px using Chrome Dev Tools | Elements look good on android | Works as expected                     | N/A         |
-| Thank You page (iPad)         | Size to 1024px using Chrome Dev Tools | Elements look good on android | Works as expected                     | N/A         |
+| **TEST**                      | **ACTION**                            | **EXPECTATION**               | **RESULT**                            | **FIX**                                |
+| ----------------------------- | ------------------------------------- | ----------------------------- | ------------------------------------- | -------------------------------------- |
+| Home page (mobile)            | Samsung 22 Ultra Android              | Elements look good on android | Works as expected                     | N/A                                    |
+| Suggested Walks page (mobile) | Samsung 22 Ultra Android              | Elements look good on android | Works as expected                     | N/A                                    |
+| What to Pack page (mobile)    | Samsung 22 Ultra Android              | Elements look good on android | Checkboxes are positioned incorrectly | Added [div] around [label] and [input] |
+| Sign Up page (mobile)         | Samsung 22 Ultra Android              | Elements look good on android | Works as expected                     | N/A                                    |
+| Thank You page (mobile)       | Samsung 22 Ultra Android              | Elements look good on android | Works as expected                     | N/A                                    |
+| Home page (iPad)              | Size to 1024px using Chrome Dev Tools | Elements look good on android | Works as expected                     | N/A                                    |
+| Suggested Walks page (iPad)   | Size to 1024px using Chrome Dev Tools | Elements look good on android | Works as expected                     | N/A                                    |
+| What to Pack page (iPad)      | Size to 1024px using Chrome Dev Tools | Elements look good on android | Works as expected                     | N/A                                    |
+| Sign Up page (iPad)           | Size to 1024px using Chrome Dev Tools | Elements look good on android | Works as expected                     | N/A                                    |
+| Thank You page (iPad)         | Size to 1024px using Chrome Dev Tools | Elements look good on android | Works as expected                     | N/A                                    |
 
 ### Nav Bar Testing Comments
 
