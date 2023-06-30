@@ -131,6 +131,7 @@ ol {
 
 .suggested-walks-highland {
     background: url('../images/highlands-button.png');
+    background-size: cover;
 }
 
 .suggested-walks-trossachs {
@@ -334,6 +335,15 @@ ol {
     float: left;
 }
 
+.checklist-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.checkbox-style {}
+
 .reset {
     border-radius: 30px;
     background-color: #eeb18f;
@@ -396,7 +406,7 @@ input[type='checkbox'] {
     border: solid #984416;
 }
 
-/* form */
+/* sign up page */
 
 .question {
     color: #984416;
