@@ -263,11 +263,16 @@ The Hike Site was tested on the following devices:
 </details>
 </details>
 
-#### Errors that were found and fixed
+#### Errors that were found in validator and fixed
 
-- Stray end tags
+Fixes have been commited
+
+- Stray end tags (sections & main)
 - The Value of the [for] attribute of the [label] element must be the ID of a non-hidden form control.
--
+- Change [ol] to [div] on What to Pack page as numbered list was no longer needed for that section
+- Change some sections from [section] to [div] as they had no headed for section element not necessary
+- Add [size] attribute to select element on sign up form
+- Change [alt] attributes on [divs] to [title] attributes
 
 <details>
 <summary>CSS - Please see screenshot of CSS Jigsaw validator</summary>
