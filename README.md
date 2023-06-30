@@ -257,11 +257,12 @@ The Hike Site was tested on the following devices:
 </details>
 </details>
 
-- CSS
-
-- No errors were found when passing through the official Jigsaw validator
+<details>
+<summary>CSS - Please see screenshot of CSS Jigsaw validator</summary>
 
 ![CSS Validator](assets/readme-img/css-valid.png "Css valid image")
+
+</details>
 
 ### Testing Comments
 
