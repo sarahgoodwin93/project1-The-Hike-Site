@@ -325,11 +325,20 @@ The live link can be found here [The Hike Site](https://sarahgoodwin93.github.io
 
 ### Content
 
-Wording used for the 'Suggested Walks' page was taken from
+Wording used for the 'Suggested Walks' page was taken from the following sites:
 
 - [Walking Higlands](https://www.walkhighlands.co.uk/ "link to walkinghighlands webpage")
 - [All Trails](https://www.alltrails.com/en-gb/ "Link to All trails webpage")
   Links to these pages for each section where wording was taken has been added to the page.
+
+Wording used for the 'What to Pack page was taken from the following sites:
+
+- [GoOutdoors](https://www.gooutdoors.co.uk/ "link to gooutdoors webpage")
+- [Treckitt](https://www.trekitt.co.uk/ "link to Treckitt webpage")
+- [Nemo Equiptment](https://www.nemoequipment.com/ "link to Nemo Equiptment webpage")
+- [Hydroflask](https://www.hydroflask.com/uk-en/ "link to hydroflask webpage")
+- [Life Systems](https://www.lifesystems.co.uk/ "link to Life Systems webpage")
+- [Blacks](https://www.blacks.co.uk/ "link to blacks webpage")
 
 ### Images
 
