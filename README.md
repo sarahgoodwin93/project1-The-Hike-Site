@@ -360,7 +360,11 @@ Love Running was used as part of the education process and was referred back to 
 * [ChatGPT](https://openai.com/blog/chatgpt "link to chatgpt page")
 ChatGPT was used gain a better understanding of css styles and how to apply them
 
+* [CluelessBiker/mentoring](https://github.com/CluelessBiker/mentoring "link to CluesslessBiker repo")
+CluelessBiker mentoring github page was used to check examples of projects, access links to resources such as validators and w3schools, Am I Responsive. 
 
+* The ['Survival-guild'](https://github.com/Irishbecky91/survival-guild/blob/main/README.md?plain=1 "link to survival-guild readme page") exmaple project was referred to especially when creating the ReadMe.
+The code to create the drop downs in README was learnt from this page. 
 
 * HTML & CSS Code Insititue Modules 
 The modules notes that Sarah Goodwin took for the HTML & CSS sections were referred back to to write code
