@@ -281,12 +281,25 @@ The Hike Site was tested on the following devices:
 
 ### Nav Bar Testing Comments
 
-Contact form | Click send button without data in form fields | Cannot submit form | Works as expected
-Nav bar - home page | Click nav buttons | That each nav element takes me to the correct page site page | Works as expected
+| **TEST**           | **ACTION**               | **EXPECTATION**               | **RESULT**        | **FIX** |
+| ------------------ | ------------------------ | ----------------------------- | ----------------- | ------- |
+| Nav Bar - home | Click nav buttons | That each nav element takes me to the correct page on site | Works as expected | N/A |
+| Nav Bar - walks | Click nav buttons | That each nav element takes me to the correct page on site | Works as expected | N/A |
+| Nav Bar - pack | Click nav buttons | That each nav element takes me to the correct page on site | Works as expected | N/A |
+| Nav Bar - sign up | Click nav buttons | That each nav element takes me to the correct page on site | Works as expected | N/A |
+
+### Other Testing Comments
+
+| **TEST**           | **ACTION**               | **EXPECTATION**               | **RESULT**        | **FIX** |
+| ------------------ | ------------------------ | ----------------------------- | ----------------- | ------- |
+| Contact form | Click submit without completing form | Cannot submit for | Works as expected | N/A |
+| Checklists | Click reset | Checkbox ticks are removed  | Works as expected | N/A |
+| Thank you page | Complete sign up form | Be taken to homepage after 5 seconds | Works as expected | N/A |
+| Footer | Click on each social media button | That each element takes you to the relevant social media homepage | Works as expected | N/A |
 
 ### Unfixed Bugs
 
-TO BE ADDED
+No bugs to report
 
 ## Deployment
 
