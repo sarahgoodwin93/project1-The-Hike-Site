@@ -221,13 +221,41 @@ The Hike Site was tested on the following devices:
 
 ### Validator Testing
 
-- HTML
-  - [W3C validator]
+<details>
+<summary>HTML</summary>
+
+<details>
+<summary>Home</summary>
+
+![HTML Validator Homepage](assets/readme-img/w3-home.png "w3 validator homepage image")
+
+</details>
+
+<details>
+<summary>Suggested Walks</summary>
+
+![HTML Validator Suggested Walks Page](assets/readme-img/w3-walks.png "w3 validator uggested Walks Page image")
+
+</details>
+
+# What to Pack
+
+![HTML Validator What to Pack Page](assets/readme-img/w3-pack.png "w3 validator What to Pack Page image")
+
+# Sign Up
+
+![HTML Validator Sign Up Page](assets/readme-img/w3-signup.png "w3 validator Sign Up Page image")
+
+# Thank you
+
+![HTML Validator Thank you Page](assets/readme-img/w3-thankyou.png "w3 validator Thank you Page image")
+
+</details>
 - CSS
 
-  - No errors were found when passing through the official Jigsaw validator
+- No errors were found when passing through the official Jigsaw validator
 
-  ![CSS Validator](assets/readme-img/css-valid.png "Css valid image")
+![CSS Validator](assets/readme-img/css-valid.png "Css valid image")
 
 ### Testing Comments
 
