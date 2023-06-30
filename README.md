@@ -264,17 +264,28 @@ The Hike Site was tested on the following devices:
 
 </details>
 
-### Testing Comments
+### Mobile and iPad Testing Comments
 
 ```
-**TEST** | **ACTION** | **EXPECTATION** | **RESULT**
-----------|----------|----------|----------
-Home page	| Size to 320px using Chrome Dev Tools	| Elements look good @ 320px | Works as expected
-Home page	| Size to 1920px using Chrome Dev Tools | Elements look good 1920px | Works as expected
+**TEST** | **ACTION** | **EXPECTATION** | **RESULT** | **FIX** |
+----------|----------|----------|----------|----------
+Home page (mobile)	| Samsung 22 Ultra Android	| Elements look good on android | Works as expected | N/A
+Suggested Walks page (mobile)	| Samsung 22 Ultra Android	| Elements look good on android | Works as expected | N/A
+What to Pack page (mobile)	| Samsung 22 Ultra Android	| Elements look good on android | Checkboxes are positioned incorrectly | To be fixed
+Sign Up page (mobile)	| Samsung 22 Ultra Android	| Elements look good on android | Works as expected | N/A
+Thank You page (mobile)	| Samsung 22 Ultra Android	| Elements look good on android | Works as expected | N/A
+Home page (iPad)	| Size to 1024px using Chrome Dev Tools	| Elements look good on android | Works as expected | N/A
+Suggested Walks page (iPad)	| Size to 1024px using Chrome Dev Tools	| Elements look good on android | Works as expected | N/A
+What to Pack page (iPad)	| Size to 1024px using Chrome Dev Tools	| Elements look good on android | Works as expected | N/A
+Sign Up page (iPad)	| Size to 1024px using Chrome Dev Tools	| Elements look good on android | Works as expected | N/A
+Thank You page (iPad)	| Size to 1024px using Chrome Dev Tools	| Elements look good on android | Works as expected | N/A
+
+```
+
+### Nav Bar Testing Comments
+
 Contact form | Click send button without data in form fields | Cannot submit form | Works as expected
 Nav bar - home page | Click nav buttons | That each nav element takes me to the correct page site page | Works as expected
-
-```
 
 ### Unfixed Bugs
 
