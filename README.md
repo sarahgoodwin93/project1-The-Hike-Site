@@ -1,4 +1,4 @@
-# [The Hike Site](https://sarahgoodwin93.github.io/The-Hike-Site/ "Link to The Hike Site Webpage")
+# [The Hike Site](https://sarahgoodwin93.github.io/project1-The-Hike-Site/ "Link to The Hike Site Webpage")
 
 ![Responsive Image](assets/readme-img/responsive-screenshot.png "am I responsive screenshot image")
 
@@ -344,14 +344,14 @@ To deploy this page to GitHub Pages from its Codeanywhere repository, the follow
 4. Close README tab and create first file named index.html
 5. Press ! TAB to create <!DOCTYPE html>
 6. Open terminal, type (git add .) (git commit -m "initial commit") (git push)
-7. Locate the [GitHub Repository](https://github.com/sarahgoodwin93/The-Hike-Site "Link to The Hike Site Repo") for The Hike Site.
+7. Locate the [GitHub Repository](https://sarahgoodwin93.github.io/project1-The-Hike-Site/ "Link to The Hike Site Repo") for The Hike Site.
 8. At the top of the repository, select Settings from the menu items.
 9. On the side bar menu under 'Code and automation', click on "Pages"
 10. Change 'Branch' from "None" to "main", press 'Save'
 11. Once saved, wait a few minutes for page to deploy
 12. Navigate back to "Pages" and here you will find your deployed link.
 
-The live link can be found here [The Hike Site](https://sarahgoodwin93.github.io/The-Hike-Site/ "Link to deployed The Hike Site")
+The live link can be found here [The Hike Site](https://sarahgoodwin93.github.io/project1-The-Hike-Site/ "Link to deployed The Hike Site")
 
 ## Technologies Used
 
